@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="recommend.css" />
+    <title>Recommendation</title>
+  </head>
+  <body>
+    <div class="reco_container">
+      <div class="reco_text_container">
+        <div class="title">Recommenation</div>
+        <div class="description">
+          We will recommend you the best restaurant you can enjoy the most based
+          on your select down below!
+        </div>
+      </div>
+     
+      <form action="#.php" method="post">
+
+      <div class="input_container">
+        <div class="input_title">
+          <label for="input-select">Location</label>
+        </div>        <div class="custom-select">
+
+        <select name="select_box" id="location-select">
+          <option value="">Select your location</option>
+          <option value="District 1">District 1</option>
+          <option value="District 2">District 2</option>
+          <option value="District 3">District 3</option>
+          <option value="District 4">District 4</option>
+          <option value="District 5">District 5</option>
+          <option value="District 6">District 6</option>
+          <option value="District 7">District 7</option>
+          <option value="District 8">District 8</option>
+          <option value="District 9">District 9</option>
+          <option value="District 10">District 10</option>
+          <option value="District 11">District 11</option>
+          <option value="District 12">District 12</option>
+          <option value="Binh Tan District">Binh Tan District</option>
+          <option value="Binh Thanh District">Binh Thanh District</option>
+          <option value="Go Vap District">Go Vap District</option>
+          <option value="Phu Nhuan District">Phu Nhuan District</option>
+          <option value="Tan Binh District">Tan Binh District</option>
+          <option value="Tan Phu District">Tan Phu District</option>
+          <option value="Thu Duc District">Thu Duc District</option>
+          <option value="Cu Chi District">Cu Chi District</option>
+          <option value="Hoc Mon District">Hoc Mon District</option>
+          <option value="Binh Chanh District">Binh Chanh District</option>
+          <option value="Nha Be District">Nha Be District</option>
+          <option value="Can Gio District">Can Gio District</option>
+        </select></div>
+      </div>
+      <div class="input_container">
+        <div class="input_title">Price Range</div>
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12">
+              <div id="slider-range"></div>
+            </div>
+          </div>
+          <div class="row slider-labels">
+            <div class="col-xs-6 caption">
+              <!-- <strong>Min </strong> -->
+              <span id="slider-range-value1"></span>
+            </div>
+            <div class="col-xs-6 text-right caption">
+              <!-- <strong>Max </strong> -->
+              <span id="slider-range-value2"></span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-12">
+              <form>
+                <input type="hidden" name="min-value" value="" />
+                <input type="hidden" name="max-value" value="" />
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="input_container">
+        <div class="input_title">
+          <label for="input-select">Category</label>
+        </div>
+        <div class="custom-select">
+        <select name="select_box" id="location-select">
+          <option value="">Select the category</option>
+          <option value="Bistro">Bistro</option>
+          <option value="Restaurant">Restaurant</option>
+          <option value="Buffet">Buffet</option>
+          <option value="Coffee/Dessert">Coffee/Dessert</option>
+          <option value="Boozer">Boozer</option>
+        </select></div>
+      </div>
+
+      <div class="input_container">
+        <div class="input_title">
+          <label for="input-select">Cuisine</label>
+        </div>
+        </div>
+        <div class="custom-select">
+
+        <select name="select_box" id="location-select">
+          <option value="">Select the cuisine</option>
+          <option value="Vietnamese">Vietnamese</option>
+          <option value="Korean">Korean</option>
+          <option value="Taiwanese">Taiwanese</option>
+          <option value="Chinese">Chinesee</option>
+          <option value="Asian">Asian</option>
+          <option value="American">American</option>
+          <option value="French">French</option>
+          <option value="Mexican">Mexican</option>
+          <option value="Brazilian">Brazilian</option>
+          <option value="Thai">Thai</option>
+          <option value="Singaporean">Singaporean</option>
+          <option value="German">German</option>
+        </select></div>
+<!-- <div class="btn">        -->
+        <input type="submit" value="OK" id="ok_btn"/>
+        <input type="reset" value="RESET"  id="reset_btn"/>
+      <!-- </div>  -->
+      </form>
+      </div>
+    </div>
+  </body>
+  <script src="JavaScript.js"></script>
+
+</html>

@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.root {
+  font-family: HelveticaNeue;
+}
+.header_container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.header_text_container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-bottom: 10%;
+}
+
+.body {
+  font-family: HelveticaNeue;
+}
+
+.title {
+  font-family: HelveticaNeue;
+  margin: 0px;
+  width: 100%;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 500;
+  color: white;
+  text-align: left;
+}
+.description {
+  font-family: HelveticaNeue;
+  padding: 8px 0px 0px;
+  font-weight: 300;
+  color: rgb(251, 251, 251);
+  font-size: 24px;
+  text-align: left;
+}
+.description_small {
+  font-family: HelveticaNeue;
+  padding: 8px 0px 0px;
+  font-weight: 300;
+  color: rgb(251, 251, 251);
+  font-size: 24px;
+  font-style: italic;
+  text-align: left;
+}
+
+.intro_content_container {
+  margin: 5.5em 15em 5.5em 15em;
+}
+.intro_title {
+  font-family: HelveticaNeue;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: #f37220;
+  text-align: left;
+}
+.intro_description {
+  font-size: 21px;
+  padding: 30px 0px;
+  font-weight: 400;
+  line-height: 24pt;
+  opacity: 0.8;
+  text-align: left;
+  margin-bottom: 5%;
+}
+.intro_title_black {
+  font-family: HelveticaNeue;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  color: black;
+  text-align: left;
+}
