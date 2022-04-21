@@ -1,0 +1,21 @@
+id,Name,Type,Cuisine,Address,District,Rating, Average 
+D2_0001,The_Deck_Saigon__Ven_Song_Saigon,Restaurant,Asian,"38_Nguyen_U_Di,_P._Thao_Dien",2,3.55,242500
+D2_0002,D'Maris__Buffet_Cao_Cap__Parkson_Cantavil,Buffet,Korean,"Tang_6_Parkson_Cantavil,_Xa_Lo_Ha_Noi,_P._An_Phu",2,3.8,44500
+D2_0003,Cheesecake_Ngon__Quoc_Huong,Bakery,Asian,"14E_Quoc_Huong,_P._Thao_Dien",2,3.8,37500
+D2_0004,Cocorico__Ga_Nuong_Phap_Rotisserie__Duong_F,Restaurant,French,"134_Duong_F,_P._An_Phu",2,3.9,194000
+D2_0005,Chickita__Ga_Nuong_Lua_Hong__Nguyen_Van_Huong,Restaurant,Vietnamese,"230_Nguyen_Van_Huong,_P._Thao_Dien",2,3.95,232500
+D2_0006,Sumo_BBQ__Vincom_Mega_Mall_Thao_Dien__Buffet_Nuong_&_Lau,Restaurant,Japanese,"Tang_4,_Vincom_Mega_Mall_Thao_Dien,_159_Xa_Lo_Ha_Noi,_P._Thao_Dien",2,4.1,350000
+D2_0007,Hana_BBQ_&_Hot_Pot_Buffet__Nguyen_Quy_Duc,Restaurant,Japanese,"65_Nguyen_Quy_Duc,_P._An_Phu",2,3.55,170000
+D2_0008,Mr._Kiss__Nha_Hang_Ga_Han_Quoc,Restaurant,Korean,"44_Song_Hanh,_P._An_Phu",2,4.1,300000
+D2_0009,Pho_Thin_Ha_Noi__Pho_Nho,Bistro,Vietnamese,"62__64_Tran_Luu,_P._An_Phu",2,3.45,53000
+D2_0010,The_Loop_Restaurant_&_Cafe,Restaurant,Italian,49_Thao_Dien,2,3.85,135000
+D2_0011,Banh_9_Sach__Banh_Sau_Rieng__Duong_So_7,Bakery,Vietnamese,"61_Duong_So_7,_P._Thanh_My_Loi",2,5,100000
+D2_0012,Union_Jack's__Fish_&_Chips,Bistro,Asian,"10_Nguyen_Ba_Lan,_P._Thao_Dien",2,4.5,179500
+D2_0013,Kokois__Cafe_Bistro_&_Store_(nghi_luon),Restaurant,Italian,24_Thao_Dien,2,3.6,173000
+D2_0014,"Al_Fresco's__Pizza,_My_Y,_Suon,_Steak_Bo_Bit_Tet__Xuan_Thuy",Restaurant,Asian,"89_Xuan_Thuy,_P._Thao_Dien",2,3.65,387500
+D2_0015,Poke__The_Hawaiian_Salad_Bowl,Bistro,USA,"7_Duong_So_14,_Khu_B,_P._An_Phu",2,3.7,99500
+D2_0016,Kim_Thao__Hot_Vit_Lon,Restaurant,Vietnamese,104_Xuan_Thuy,2,3.05,19000
+D2_0017,HIA_Corner__Than_Van_Nhiep,Cafe,Vietnamese,"179_Than_Van_Nhiep,_P._An_Phu",2,4.7,35000
+D2_0018,River_View_Restaurant,Restaurant,Vietnamese,"8/11_Duong_So_49B,_P._Thao_Dien",2,4.3,75000
+D2_0019,Ga_Ran_Popeyes__Thao_Dien,Restaurant,USA,20_Thao_Dien,2,3.75,60000
+D2_0020,Boat_House__Nha_Hang_Bo_Song,Restaurant,Mexican,36_Thao_Dien,2,3.3,215000
