@@ -1,45 +1,39 @@
+import altair as alt
 import streamlit as st
 import pandas as pd
-import numpy as np
-import pydeck as pdk
-import altair as alt
-from datetime import datetime
-import matplotlib.pyplot as py
-import matplotlib.pylab as plt
-import seaborn as sns
 
 st.title('Cuisine')
-st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City. The data is classified as follows: Vietnam, Japanese, Western, Korean, Italian and so on.')
+st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City.'
+         ' The data is classified as follows: Vietnam, Japanese, Western, Korean, Italian and so on.')
 st.subheader('Cuisine popularity')
-st.write('Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ')
+st.write('The chart illustrates the popularity of all types of cuisine whom restaurant topic used. '
+         'As the result, the user can choose what type of new cuisine they want to try or for who having intention to open a restaurant will decide what cuisine they want to used in their restaurnt in order to reduce to compete. ')
 
-chart_data = pd.DataFrame(
-    np.random.rand(9, 4),
-    index=["air","coffee","orange","whitebread","potato","wine","beer","wheatbread","carrot"],
+sepmall ='https://raw.githubusercontent.com/Surllian/SEPM/main/Dataset_20/CuChi.csv'
+sepm = pd.read_csv(sepmall)
+
+# Bar_chart
+barchart = alt.Chart(sepm).mark_bar().encode(
+    x=alt.X('count(Cuisine):O',title = "Popularity"),
+    y=alt.Y('Cuisine:N'),
+    color='Cuisine:N'
 )
 
+st.altair_chart(barchart)
 
-to_stream = pd.DataFrame(
-    [
-        ["CHILDREN", 0.42806248287201976, 0.0],
-        ["AMT_TOTAL", 165006, 179357],
-        ["SAL", 766582, 703917.0],
-        ["ANNUITY", 26851, 28416],
-    ],
-    columns=("Variable", "Id", "Mean"),
+# Table bar_chart
+
+st.subheader('Average price and popularity by cuisine')
+st.write('The chart illustrates the popularity  and average price of all types of cuisine whom restaurant topic used. '
+         'This can help anyone who are going to set themselves up in food business can choose the appropriate price for their restaurant theme. ')
+
+# Plot chart
+plotchart = alt.Chart(sepm).mark_circle().encode(
+    y=alt.Y('average(Average):O',type='quantitative'),
+    x=alt.X('count(Cuisine):O', title="Popularity"),
+    color='Cuisine:N'
 )
 
+st.altair_chart(plotchart)
 
-plt.rcParams.update({"font.size": 14, "font.weight": "bold"})
-dfcols = to_stream.columns.tolist()
-fig, ax = plt.subplots(figsize=(12, 8),)
-sns.set_style("whitegrid")
-to_stream.plot.barh(x="Variable", figsize=(12, 8), width=0.9, ax=ax)
-plt.title("Comparer avec la Moyenne Globale", fontsize=24, fontweight="bold")
-plt.legend(loc="lower right")
-for patch in ax.patches:
-    w, h = patch.get_width(), patch.get_height()
-    y = patch.get_y()
-    ax.text(w + -0.1, h / 2 + y, f"{w:.3f}", va="center")
-
-st.pyplot(fig)
+# Table Plot_chart
