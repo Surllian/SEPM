@@ -2,6 +2,7 @@ import altair as alt
 import streamlit as st
 import pandas as pd
 
+
 st.title('Cuisine')
 st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City.'
          ' The data is classified as follows: Vietnam, Japanese, Western, Korean, Italian and so on.')
