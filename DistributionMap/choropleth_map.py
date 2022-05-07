@@ -35,10 +35,10 @@ folium.Choropleth(
    geo_data = geojson,
    data = map_data,
    columns=['District','RestaurantNumber'],
-   key_on='feature.id',
+   key_on='feature.properties.name',
    fill_color='YlOrRd',
    fill_opacity=0.9,
    line_opacity=0.5,
-   legend_name="Number of restaurant",
+   legend_name="The number of restaurant",
 ).add_to(M)
 M

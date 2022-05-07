@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 1" },
+      "properties": { "name": "1" },
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -203,7 +203,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 2" },
+      "properties": { "name": "2" },
 
       "geometries": [
         {
@@ -486,7 +486,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 3" },
+      "properties": { "name": "3" },
 
       "geometries": [
         {
@@ -730,7 +730,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 4" },
+      "properties": { "name": "4" },
 
       "geometries": [
         {
@@ -831,7 +831,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 5" },
+      "properties": { "name": "5" },
 
       "geometries": [
         {
@@ -997,7 +997,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 6" },
+      "properties": { "name": "6" },
 
       "geometries": [
         {
@@ -1203,7 +1203,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 7" },
+      "properties": { "name": "7" },
 
       "geometries": [
         {
@@ -1502,7 +1502,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 8" },
+      "properties": { "name": "8" },
 
       "geometries": [
         {
@@ -1854,7 +1854,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 9" },
+      "properties": { "name": "9" },
 
       "geometries": [
         {
@@ -2278,7 +2278,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 10" },
+      "properties": { "name": "10" },
 
       "geometries": [
         {
@@ -2400,7 +2400,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 11" },
+      "properties": { "name": "11" },
 
       "geometries": [
         {
@@ -2559,7 +2559,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "District 12" },
+      "properties": { "name": "12" },
 
       "geometries": [
         {
@@ -2982,7 +2982,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Binh Tan District" },
+      "properties": { "name": "Binh Tan" },
 
       "geometries": [
         {
@@ -3297,7 +3297,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Binh Thanh District" },
+      "properties": { "name": "Binh Thanh" },
 
       "geometries": [
         {
@@ -3635,7 +3635,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Go Vap District" },
+      "properties": { "name": "Go Vap" },
 
       "geometries": [
         {
@@ -4050,7 +4050,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Phu Nhuan District" },
+      "properties": { "name": "Phu Nhuan" },
 
       "geometries": [
         {
@@ -4411,7 +4411,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Tan Binh District" },
+      "properties": { "name": "Tan Binh" },
 
       "geometries": [
         {
@@ -4746,7 +4746,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Tan Phu District" },
+      "properties": { "name": "Tan Phu" },
 
       "geometries": [
         {
@@ -5009,7 +5009,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Thu Duc District" },
+      "properties": { "name": "Thu Duc" },
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -5943,6 +5943,8 @@
     },
     {
       "type": "GeometryCollection",
+      "properties": { "name": "Binh Chanh" },
+
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -7133,6 +7135,8 @@
     },
     {
       "type": "GeometryCollection",
+      "properties": { "name": "Can Gio" },
+
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -8724,6 +8728,8 @@
     },
     {
       "type": "GeometryCollection",
+      "properties": { "name": "Cu Chi" },
+
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -9420,6 +9426,8 @@
     },
     {
       "type": "GeometryCollection",
+      "properties": { "name": "Hoc Mon" },
+
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -9692,6 +9700,8 @@
     },
     {
       "type": "GeometryCollection",
+      "properties": { "name": "Nha Be" },
+
       "geometries": [
         {
           "type": "MultiPolygon",
