@@ -23,7 +23,7 @@ map_data = data_all[['District', 'RestaurantNumber']]
 map_data.head()
 
 # import geojson data.
-geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/districts.geojson'
+geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap/districts.geojson'
 response = requests.get(geojson_url)
 geojson = response.json()
 
