@@ -37,7 +37,7 @@ folium.Choropleth(
    columns=['District','RestaurantNumber'],
    key_on='feature.id',
    fill_color='YlOrRd',
-   fill_opacity=0.7,
+   fill_opacity=0.9,
    line_opacity=0.5,
    legend_name="Number of restaurant",
 ).add_to(M)
