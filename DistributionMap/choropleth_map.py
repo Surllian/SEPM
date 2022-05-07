@@ -38,8 +38,8 @@ folium.Choropleth(
    geo_data = country_shapes,
    data = map_data,
    columns=['District','RestaurantNumber'],
-   # key_on='feature.properties.name',
-   key_on='feature.id',
+   key_on='feature.properties.name',
+   # key_on='feature.id',
 
    fill_color='YlOrRd',
    fill_opacity=0.9,
