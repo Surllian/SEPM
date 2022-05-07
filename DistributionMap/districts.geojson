@@ -198,7 +198,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
 
     {
@@ -481,7 +481,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
 
     {
@@ -725,7 +725,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
 
     {
@@ -826,7 +826,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
 
     {
@@ -993,7 +993,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -1199,7 +1199,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -1498,7 +1498,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -1850,7 +1850,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -2274,7 +2274,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -2396,7 +2396,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -2555,7 +2555,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -2978,7 +2978,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -3293,7 +3293,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -3631,7 +3631,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -4046,7 +4046,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -4407,7 +4407,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -4742,7 +4742,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -5005,7 +5005,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -5939,7 +5939,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -7129,7 +7129,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -8720,7 +8720,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -9416,7 +9416,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -10112,7 +10112,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -10384,7 +10384,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     },
     {
       "type": "GeometryCollection",
@@ -11154,7 +11154,7 @@
           ]
         }
       ],
-      "id": "hcmc"
+      "id": "District"
     }
   ]
 }

@@ -19,7 +19,7 @@ data = data_all[data_all['IndicatorName']==INDICATOR]
 data.head()
 
 # grab the districts and res num column
-map_data = data_all[['District', 'Restaurant number']]
+map_data = data_all[['District', 'RestaurantNumber']]
 map_data.head()
 
 # import geojson data.
@@ -34,11 +34,11 @@ M = folium.Map(location=[10.8131, 106.6897], zoom_start=10.3)
 folium.Choropleth(
    geo_data = geojson,
    data = map_data,
-   columns=['District','Restaurant number'],
+   columns=['District','RestaurantNumber'],
    key_on='feature.id',
    fill_color='YlOrRd',
    fill_opacity=0.7,
-   line_opacity=0.2,
+   line_opacity=0.5,
    legend_name="Number of restaurant",
 ).add_to(M)
 M
