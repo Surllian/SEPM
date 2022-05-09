@@ -2,7 +2,6 @@ import altair as alt
 import streamlit as st
 import pandas as pd
 
-
 st.title('Cuisine')
 st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City.'
          ' The data is classified as follows: Vietnam, Japanese, Western, Korean, Italian and so on.')
@@ -10,15 +9,18 @@ st.subheader('Cuisine popularity')
 st.write('The chart illustrates the popularity of all types of cuisine whom restaurant topic used. '
          'As the result, the user can choose what type of new cuisine they want to try or for who having intention to open a restaurant will decide what cuisine they want to used in their restaurnt in order to reduce to compete. ')
 
-sepmall ='https://raw.githubusercontent.com/Surllian/SEPM/main/Dataset_20/CuChi.csv'
+sepmall ='https://raw.githubusercontent.com/Surllian/SEPM/main/All_Dis_csv/All_dis_csv.csv'
+sepmtest = 'https://raw.githubusercontent.com/Lee-GaIn/-BIIT-Project/main/lib/data/data.csv'
 sepm = pd.read_csv(sepmall)
+test = pd.read_csv(sepmtest)
 
 # Bar_chart
 barchart = alt.Chart(sepm).mark_bar().encode(
     x=alt.X('count(Cuisine):O',title = "Popularity"),
     y=alt.Y('Cuisine:N'),
-    color='Cuisine:N'
-)
+    color='Cuisine:N',
+    tooltip = ['count(Cuisine)']
+).properties(height=800, width=1000, title = 'Bar chart').interactive()
 
 st.altair_chart(barchart)
 
@@ -124,11 +126,14 @@ st.write('The chart illustrates the popularity  and average price of all types o
          'This can help anyone who are going to set themselves up in food business can choose the appropriate price for their restaurant theme. ')
 
 # Plot chart
-plotchart = alt.Chart(sepm).mark_circle().encode(
-    y=alt.Y('average(Average):O',type='quantitative'),
-    x=alt.X('count(Cuisine):O', title="Popularity"),
-    color='Cuisine:N'
-)
+scatter = alt.Chart(sepm).mark_point(filled=True).encode(
+        alt.X('Rating'),
+        alt.Y('District'),
+        alt.Size('Cuisine', scale=alt.Scale(range=[200, 500])),
+        alt.OpacityValue(0.6),
+        alt.Color('Cuisine'),
+        tooltip = ['Name', 'Type']
+    ).properties(height=850, width=850, title = 'Plot chart').interactive()
+st.altair_chart(scatter)
 
-st.altair_chart(plotchart)
 
