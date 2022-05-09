@@ -7,7 +7,6 @@ D1_0005,Japanit_Matcha_&_Coffee_House__Tran_Hung_Dao,Restaurant,Japanese,"130_Tr
 D1_0006,Sul_Bingsu__Korean_Dessert_&_Coffee__Nguyen_Trai,Bistro,Korean,"219_Nguyen_Trai,_P._Nguyen_Cu_Trinh",1,3.75,35000
 D1_0007,Don_Chicken__Nha_Hang_Ga_Nuong_Han_Quoc__Ho_Tung_Mau,Cafe,Korean,25_Ho_Tung_Mau_(Goc_Ham_Nghi),1,3.7,275000
 D1_0008,Xoi_Che_Bui_Thi_Xuan__Bui_Thi_Xuan,Cafe,Vietnamese,"111_Bui_Thi_Xuan,_P._Pham_Ngu_Lao",1,3.15,40000
-D1_0009,Kem_Häagen_Dazs__Dong_Du,Restaurant,Japanese,"58_Dong_Du,_P._Ben_Nghe",1,3.85,160000
 D1_0010,Sushi_&_BBQ_Miya,Restaurant,Japanese,150/26_Nguyen_Trai,1,3.85,95000
 D1_0011,Kem_Swensen's__Nguyen_Thai_Hoc,Restaurant,USA,"73_Nguyen_Thai_Hoc,_P._Cau_Ong_Lanh",1,3.65,124500
 D1_0012,Ocean_Palace__Am_Thuc_Trung_Hoa,Cafe,Chinese,2_Le_Duan,1,3.65,350000
@@ -382,7 +381,6 @@ D2_0042,Bamboo_Dimsum__Vincom_Mega_Mall_Thao_Dien,Bistro,Chinese,"Tang_5,_Vincom
 D2_0043,Larva__Mi_Cay_&_An_Vat__Nguyen_Thi_Dinh,Bistro,Vietnamese,"219_Nguyen_Thi_Dinh,_P._Binh_Trung_Tay",2,3.45,51500
 D2_0044,Pendolasco__Nha_Hang_Y,Restaurant,Italian,"30_Tong_Huu_Dinh,_P._Thao_Dien",2,4,130000
 D2_0045,Nha_Hang_Pho_Oc__Nguyen_Duy_Trinh,Restaurant,Vietnamese,"271_Nguyen_Duy_Trinh,_P._Binh_Trung_Tay",2,3.6,45500
-D2_0046,McDonald’s_Vincom_Masteri,Restaurant,USA,"L111,12,13,_TTTM_Vincom_Masteri,_159_Xa_Lo_Ha_Noi,_P.__Thao_Dien",2,3.8,43000
 D2_0047,Go_Thai_Noodles__Mi_Thai__Xuan_Thuy,Bistro,Thailand,"94_Xuan_Thuy,_P._Thao_Dien",2,3.7,80000
 D2_0048,Maison_ManDo__Mon_Viet_&_Au,Restaurant,Vietnamese,"3_Nguyen_U_Di,_P._Thao_Dien",2,4.5,110000
 D2_0049,Di_Nguyet__Banh_Trang_Nuong,Restaurant,Vietnamese,Hem_99_Tran_Nao__Luong_Dinh_Cua,2,0,49000
@@ -774,7 +772,6 @@ D3_0022,Tra_Sua_Heekcaa_Sai_Gon__Truong_Sa,Cafe,Asian,"786_Truong_Sa,_P._14",3,3
 D3_0023,"Gummy__Chicken_Steak,_Cake_&_Ice_Cream__Vo_Van_Tan",Bistro,Asian,"Tang_Tret,_99/103B_Vo_Van_Tan,_P._6",3,3.75,50000
 D3_0024,Bun_Bo_Vietnam_Xua__Cach_Mang_Thang_8,Bistro,Vietnamese,"48_Cach_Mang_Thang_8,_P._6",3,3.55,25000
 D3_0025,Bun_Bo_Ganh__Ly_Chinh_Thang,Restaurant,Vietnamese,"110_Ly_Chinh_Thang,_P._8",3,3.25,51000
-D3_0026,Lil’_Sago_Com_&_Lau__Vo_Van_Tan,Restaurant,Vietnamese,299_Vo_Van_Tan,3,3.6,67000
 D3_0027,Lau_Nam_Thien_Nhien_Ashima__Tu_Xuong,Restaurant,Japanese,11_Tu_Xuong,3,4,217500
 D3_0028,KuBin__Tra_Sua_Thach_Pho_Mai__Nguyen_Phuc_Nguyen,Cafe,Vietnamese,"35_Nguyen_Phuc_Nguyen_,_P._10",3,3.55,15000
 D3_0029,Camellia_Tea_&_Coffee,Cafe,Vietnamese,"120/4B_Tran_Quoc_Thao,_P._7",3,3.75,35000
@@ -797,7 +794,6 @@ D3_0045,KOI_The__Cao_Thang_62C,Cafe,Singapore,"62C_Cao_Thang,_P._5",3,3.55,42500
 D3_0046,Hau_Chop_Chep__The_Gioi_Hau,Bistro,Vietnamese,"220/118_Le_Van_Sy,_P.14",3,3.1,105000
 D3_0047,Hoang_Ty__Dac_san_Trang_Bang__Vo_Van_Tan,Bistro,Vietnamese,"70__72_Vo_Van_Tan,_P._6",3,3.55,85000
 D3_0048,BoLeRo__Cao_Thang,Restaurant,Vietnamese,"2_Cao_Thang,_P._5",3,3.15,162500
-D3_0049,18ºC__Food_&_Drink__Vo_Van_Tan,Cafe,Vietnamese,74_Vo_Van_Tan,3,3.5,40000
 D3_0050,Carem_Kem_Dua_Thai,Cafe,Thailand,"191_Cach_Mang_Thang_8,_P._4",3,3.4,40000
 D3_0051,Nha_Hang__Phong_Tra_An_Nam,Restaurant,Vietnamese,"52_Truong_Dinh,_P._7",3,3.6,102500
 D3_0052,Chanchamayo_Coffee,Cafe,Vietnamese,"6A_Ngo_Thoi_Nhiem,_P._7",3,3.85,70000
@@ -1083,7 +1079,6 @@ D4_0017,Pha_Lau_Di_Nui__Ton_Dan,Bistro,Vietnamese,243/30_Ton_Dan,4,3.2,21500
 D4_0018,Bun_Bo_Hue_14B,Bistro,Vietnamese,"14B_Duong_So_46,_P._5",4,4.2,32500
 D4_0019,Oc_Dao_II__Vinh_Khanh,Bistro,Vietnamese,"232/123_Vinh_Khanh,_P._10",4,3.2,85500
 D4_0020,Co_Thao__Pha_Lau_Bo,Restaurant,Vietnamese,"243/29G_Ton_Dan,_P._15",4,3.1,20000
-D4_0021,Domino’s_Pizza__Khanh_Hoi,Restaurant,Vietnamese,"133_Khanh_Hoi,_P._3",4,3.6,124000
 D4_0022,Banh_Nam__Banh_Mi__Ben_Van_Don,Bakery,Vietnamese,"139Bis_Ben_Van_Don,_P._6",4,3.9,19000
 D4_0023,Sushi_KO__Vinh_Khanh,Bistro,Vietnamese,"122_Vinh_Khanh,_P._10",4,3.35,460000
 D4_0024,Sushi_Vien_Phuong_Map__Hoang_Dieu,Restaurant,Japanese,"168_Hoang_Dieu,_P._9",4,3.5,4500
@@ -1130,7 +1125,6 @@ D4_0064,O_Thuong__Mon_Viet__Duong_41,Bistro,Vietnamese,"29_Duong_41,_P._6",4,3.3
 D4_0065,Bangkok_BBQ__Ben_Van_Don,Bistro,Thailand,360B_Ben_Van_Don,4,3.15,145500
 D4_0066,Pha_Lau_Co_Oanh,Bistro,Vietnamese,"200/48_Xom_Chieu,_P._14",4,3.25,16000
 D4_0067,Local_Thai_Restaurant__Nha_Hang_Thai,Restaurant,Thailand,"89/19_Doan_Van_Bo,_P._12",4,3.75,195000
-D4_0068,McDonald’s_Hoang_Dieu,Bistro,USA,"Chung_Cu_H3,_384_Hoang_Dieu,_P._6",4,3.4,65000
 D4_0069,The_Coffee_Bean_&_Tea_Leaf__Nguyen_Tat_Thanh,Cafe,USA,96_Ter_Nguyen_Tat_Thanh,4,3.45,101000
 D4_0070,Tra_Tien_Huong__Khanh_Hoi,Cafe,Taiwanese,"238_Khanh_Hoi,_P._6",4,3.4,35000
 D4_0071,Oc_Soc,Restaurant,Vietnamese,"D58_Khu_Tai_Thiet_Hoang_Dieu,_P._8",4,3.75,40000
@@ -1281,7 +1275,6 @@ D4_0215,Di_Tam__Banh_Mi_Hap__Mon_An_Sang,Restaurant,Vietnamese,"122/27/29_Ton_Da
 D4_0216,Happy_Milktea_&_Coffee,Cafe,Vietnamese,8_Hoang_Dieu,4,4.1,26500
 D4_0217,Pha_Lau_&_Com_Tam_Binh_Dan,Bistro,Vietnamese,"290_Ton_Dan,_P._4",4,4.55,20000
 D4_0218,Pho_Thanh__Banh_Xeo_Rau_Rung__Duong_So_41,Bistro,Vietnamese,"97_Duong_So_41,_P._6",4,4.6,37500
-D4_0219,Tina_Cake_–_Banh_Flan_Rau_Cau,Bakery,Vietnamese,"92/20/36_Ton_That_Thuyet,_P._16",4,3.65,21000
 D4_0220,Baobei__Ben_Van_Don,Cafe,Vietnamese,"33_Ben_Van_Don,_P._12",4,4.25,37000
 D4_0221,Dimsum_Uncle,Bistro,Vietnamese,K44_Hoang_Dieu,4,4.3,30000
 D4_0222,Bun_Rieu_Vietnamese__Xom_Chieu,Bistro,Vietnamese,181/1_Xom_Chieu,4,3.65,20000
@@ -1357,7 +1350,6 @@ D4_0291,Na_Dalat_Food__Kem_Bo_&_Tra_Sua,Restaurant,Vietnamese,16_Xom_Chieu,4,4.6
 D4_0292,Nha_Vuon__Nuoc_Ep_Nguyen_Chat,Cafe,Vietnamese,"Trong_Cang_Ke_Ben_Cay_Xang_Ton_That_Thuyet,_P._4",4,3.95,27500
 D4_0293,Thu_Gian_Cafe__Khanh_Hoi,Cafe,Vietnamese,"202_Duong_48,_P._3",4,3.05,40000
 D4_0294,Tina's_Corner__Homecake__Shop_Online,Restaurant,Chinese,"40/5_Nguyen_Khoai,_P._2",4,3.05,35000
-D4_0295,Pop_Po_Ti_–_Tra_Sua_Sexy,Restaurant,Vietnamese,12/29/18/8_Nguyen_Khoai,4,3.8,25000
 D4_0296,Pho_Thin_By_Sol__Nguyen_Truong_To,Bistro,Vietnamese,"45_Nguyen_Truong_To,_P._12",4,3.75,42000
 D4_0297,An_Cafe__Hoang_Dieu,Cafe,Vietnamese,"60_Hoang_Dieu,_P._12",4,4.2,27500
 D4_0298,Thanh_Huong__Chao_Long_Ha_Noi__Doan_Van_Bo,Bistro,Vietnamese,"416_Doan_Van_Bo,_P._14",4,4.35,30000
@@ -1740,7 +1732,6 @@ D5_0215,Hoang_Yen_Vietnamese_Cuisine__Parkson_Hung_Vuong,Restaurant,Vietnamese,"
 D5_0216,Rules_Of_Tea__Tra_Sua_De_Vuong__Nguyen_Van_Cu,Cafe,Taiwanese,"213D_Nguyen_Van_Cu,_P._3",5,3.9,45000
 D5_0217,Lavida__Tra_Sua_&_Ca_Phe__Parkson_Hung_Vuong,Cafe,Vietnamese,"Tang_3,_126_Hung_Vuong,_P._12",5,3.65,16000
 D5_0218,Takoyaki_Sushi__Nguyen_Trai,Bistro,Japanese,"718_Nguyen_Trai,_P._11",5,3.65,50000
-D5_0219,McDonald’s_Hong_Bang,Bistro,USA,"Tang_Tret,_The_Garden_Mall,_190_Hong_Bang,_P._12",5,3.6,62500
 D5_0220,Chao_Muc__175_Tran_Binh_Trong,Bistro,Vietnamese,175_Tran_Binh_Trong,5,3.7,22500
 D5_0221,Hai_Lua__Am_Thuc_3_Mien__Nguyen_Trai,Restaurant,Vietnamese,"648_Nguyen_Trai,_P._11",5,3.05,215000
 D5_0222,TAISOT_Mi_Y_29K__Vo_Van_Kiet,Restaurant,Italian,"840_Vo_Van_Kiet,_P._5",5,4.05,40000
@@ -1922,7 +1913,6 @@ D5_0397,Quan_Cay_Dua__Nhau_An_Gia_Dinh,Bar,Vietnamese,"1054_Vo_Van_Kiet,_P._6",5
 D5_0398,Dong_Khanh__Nha_Hang_Mon_Hoa,Restaurant,Vietnamese,2_Tran_Hung_Dao_B,5,4,310000
 D5_0399,"Quan_617__Bun_Cha_Ca,_Banh_Canh_Bot_Xat_&_Com_Trua",Bistro,Vietnamese,"617_Tran_Hung_Dao,_P._1",5,4.2,22500
 D5_0400,Tra_Sua_Bobapop__Tran_Binh_Trong,Cafe,Taiwanese,"233_Tran_Binh_Trong,_P._4",5,3.9,45000
-D5_0401,Quan_Bi_102_–_Lau_De_Uc,Bistro,Vietnamese,"102_Huynh_Man_Dat,_P._2",5,3.9,97500
 D5_0402,Quan_44__Com_Tam_Dem,Bistro,Vietnamese,"185_Tran_Binh_Trong,_P._3",5,3.55,40000
 D5_0403,ChaMi__Taiwan_Milk_Tea,Cafe,Taiwanese,"716_Tran_Hung_Dao,_P._2",5,3.3,35000
 D5_0404,Cabin_Deli__Kafe_&_Food__Parkson_Hung_Vuong,Cafe,Vietnamese,"Tang_6_Parkson_Hung_Vuong,_126_Hung_Vuong,_P._12",5,3.85,45000
@@ -1982,7 +1972,6 @@ D6_0002,Pho_&_Lau_Bo__Cho_Lon,Bistro,Vietnamese,"63/3_Nguyen_Thi_Nho,_P._2",6,3.
 D6_0003,Quan_An_Doi_Chung_Cua_1_Cang__Nguyen_Van_Luong,Bistro,Vietnamese,"177E_Nguyen_Van_Luong,_P._11",6,3.15,137500
 D6_0004,Texas_Chicken__Hau_Giang,Restaurant,USA,"176C176D_Hau_Giang,_P._6",6,3.3,135000
 D6_0005,Tra_Sua_Luan_Map__Le_Quang_Sung,Restaurant,Vietnamese,"199/1_Le_Quang_Sung,_P._6",6,4.5,25000
-D6_0006,McDonald's_Phu_Lam,Restaurant,Vietnamese,"718Bis_Kinh_Duong_Vuong,_P._13",6,3.65,55000
 D6_0007,Xoi_Binh_Tien__Minh_Phung,Bistro,Vietnamese,"88_Minh_Phung,_P._5",6,3.7,21500
 D6_0008,Suon_Cay_Nuong_&_Hai_San__Kinh_Duong_Vuong,Bistro,Korean,"99_Kinh_Duong_Vuong,_P._12",6,3.7,110000
 D6_0009,Funny_Beef__Spaghetti_&_Beefsteak__Nguyen_Van_Luong,Bistro,Italian,"203C_Nguyen_Van_Luong,_P._11",6,3.75,60000
@@ -1992,7 +1981,6 @@ D6_0012,Ty_Thy__Goi_Du_Du_Thai,Bistro,Thailand,"2B_Ben_Phu_Lam,_P._9",6,3.2,3250
 D6_0013,Banh_Canh_A_Vung,Bistro,Vietnamese,"51B/2A_Minh_Phung,_P._5",6,3.45,23500
 D6_0014,Bui_Van_Ngo_Coffee__72_Duong_So_23,Cafe,Vietnamese,"72__74_Duong_So_23,_P._10",6,3.8,35000
 D6_0015,7_Bun_Rieu,Restaurant,Vietnamese,"122_Hau_Giang,_P._6",6,4.5,32500
-D6_0016,Domino’s_Pizza__Minh_Phung,Restaurant,Vietnamese,"74_Minh_Phung,_P._5",6,3.9,124000
 D6_0017,Gia_Phu_Phuc_Kien__Am_Thuc_Trung_Hoa,Restaurant,Chinese,"513/28_Gia_Phu,_P._3",6,3.7,190000
 D6_0018,Quan_Chay_Quan_Am,Bistro,Vietnamese,"137/7_Binh_Tien,_P._8",6,3.65,117500
 D6_0019,Tra_Sua_Yolo__Duong_So_44,Restaurant,Vietnamese,"15_Duong_So_44,_P._10",6,3,16000
@@ -2531,7 +2519,6 @@ D7_0001,Morico__Contemporary_Japanese_Lifestyle__Crescent_Mall,Restaurant,Japane
 D7_0002,Papas'_Chicken__Phu_My_Hung,Restaurant,Korean,"S371_Hung_Vuong_2,_Bui_Bang_Doan",7,3.5,265000
 D7_0003,Sumo_BBQ__SC_VivoCity__Buffet_Nuong_&_Lau,Restaurant,Japanese,"Tang_2_Lo_02__39_SC_Vivo_City,_1058_Nguyen_Van_Linh,_KP._1,_P._Tan_Phong",7,4.2,707000
 D7_0004,Mr.BBQ__Am_Thuc_Han_Quoc,Restaurant,Korean,137_Ton_Dat_Tien,7,3.6,480000
-D7_0005,Pizza_4P’s__Pizza_Kieu_Nhat__Nguyen_Van_Linh,Restaurant,Japanese,"Lo_MD2,_Nguyen_Van_Linh,_P_Tan_Phu",7,4.05,500000
 D7_0006,Seol_Hwa__Bingsu_Sua_Bao_Tuyet_Hoa__Sky_Graden,Cafe,Korean,"28/1_Pham_Van_Nghi,_Khu_Pho_Sky_Garden_1,_P._Tan_Phong",7,3.95,270000
 D7_0007,Shabu_Ya__SC_VivoCity,Restaurant,Japanese,"Tang_4__SC_VivoCity,_1058_Nguyen_Van_Linh,_KP._1,_P._Tan_Phong",7,3.8,490000
 D7_0008,Galbi_Brothers__Nha_Hang_Han_Quoc,Restaurant,Korean,"R1__25_Hung_Phuoc_4,_Pham_Van_Nghi,_P._Tan_Phong",7,3.45,750000
@@ -2547,7 +2534,6 @@ D7_0017,Korean_Grill__Buzza_BBQ_Buffet__Nguyen_Thi_Thap,Restaurant,Korean,"Tang_
 D7_0018,Boomerang_Bistro_Saigon,Restaurant,Vietnamese,"107_Ton_Dat_Tien,_Tan_Phong",7,3.85,750000
 D7_0019,Osaka_Ramen_Mi_Nhat__Phu_My_Hung,Restaurant,Japanese,"SD04H,_292_My_Phat,_133_Nguyen_Duc_Canh",7,3.75,175000
 D7_0020,Hu_Tieu_Nam_Vang_Tai_Anh__Nguyen_Thi_Thap,Bistro,Vietnamese,"494_Nguyen_Thi_Thap,_P._Tan_Quy",7,3.7,88000
-D7_0021,McDonald's_Vivo,Restaurant,Asian,"Tang_1__SC_VivoCity,_1058_Nguyen_Van_Linh,_KP._1,_P._Tan_Phong",7,3.55,330000
 D7_0022,Say_Coffee_24h__Nguyen_Thi_Thap,Cafe,Vietnamese,"453_Nguyen_Thi_Thap,_P._Tan_Phong",7,3.85,90000
 D7_0023,Bo_La_Lot__Tan_Quy,Restaurant,Vietnamese,"47/20_Duong_So_2,_P._Tan_Quy",7,3.85,77000
 D7_0024,Friends_By_Pontian__Mi_Singapore__SC_VivoCity,Bistro,Singapore,"24A_SC_VivoCity,_1058_Nguyen_Van_Linh,_KP._1,_P._Tan_Phong",7,3.1,75000
@@ -2559,7 +2545,6 @@ D7_0029,Mi_Thom__Noodle_Bar,Bistro,Vietnamese,"462_Le_Van_Luong,_P._Tan_Phong",7
 D7_0030,Bong_Lan_Xa_Xiu,Bakery,Vietnamese,122B_Nguyen_Van_Linh,7,3.4,80000
 D7_0031,Banh_Crepe_Sau_Rieng_&_Chan_Ga_Sa_Tac__Shop_Online,Restaurant,Vietnamese,"169_Duong_So_15,_P._Tan_Quy",7,4.15,99000
 D7_0032,Sung_Won_House__Am_Thuc_Han_Quoc,Restaurant,Korean,"137_Duong_So_17,_P._Tan_Quy",7,3.25,114000
-D7_0033,Nathalie’s_Thai,Restaurant,Thailand,"23_Bui_Bang_Doan,_P._Tan_Phong",7,3.6,340000
 D7_0034,San_Fu_Lou__Am_Thuc_Quang_Dong__Crescent_Mall,Restaurant,Chinese,"Tang_Tret_Crescent_Mall,_101_Ton_Dat_Tien,_P._Tan_Phu",7,3.55,220000
 D7_0035,Nha_Hang_Han_Quoc_Lee_Cho__Hung_Phuoc_2,Restaurant,Korean,48_Hung_Phuoc_2,7,3.7,430000
 D7_0036,Mr._Beefsteak__Lam_Van_Ben,Restaurant,French,"285_Lam_Van_Ben,_P._Tan_Quy",7,3.95,150000
@@ -2714,7 +2699,6 @@ D7_0184,DAKBAL_SSALON__Chicken,Restaurant,Korean,"R4__77_Hung_Gia_4,_Phu_My_Hung
 D7_0185,Banh_Mi_Ga__Nguyen_Thi_Thap,Restaurant,Vietnamese,"518_Nguyen_Thi_Thap,_P._Tan_Phong",7,3.8,35000
 D7_0186,"Tu_Nhu__Lau_Ga_La_Que,_Lau_Mam_&_Ran_Dong",Bistro,Vietnamese,"164/8_Duong_So_16,_KP._2,_P._Tan_Phu",7,3.9,650000
 D7_0187,Banh_Gao_Han_Quoc_Saeneul,Bistro,Korean,"72_(S351)_Pham_Van_Nghi,_Khu_Pho_Sky_Garden_1,_P._Tan_Phong",7,4,250000
-D7_0188,Boc_Boc_–_Lau_Nuong_Hap_Tu_Chon,Bistro,Vietnamese,"71_Duong_So_47,_P._Tan_Quy",7,4.4,70000
 D7_0189,Banh_Trang_Long_An__Le_Van_Luong,Restaurant,Vietnamese,Le_Van_Luong,7,4.1,50000
 D7_0190,Pho_Co_Chin_Gia_Lai,Bistro,Vietnamese,"43N_Hoang_Quoc_Viet_,_P.Phu_My",7,3.35,128000
 D7_0191,Banh_Canh_He_&_Cha_Ca_Phu_Yen,Bistro,Vietnamese,437_Tran_Xuan_Soan,7,4.15,25000
@@ -2742,7 +2726,6 @@ D7_0212,Com_Tam_Cali__Crescent_Mall,Restaurant,Vietnamese,"Tang_5_Crescent_Mall,
 D7_0213,Bona_Matcha_Workshop__Phu_My_Hung,Cafe,Vietnamese,"R410_Hung_Gia_1,_Phu_My_Hung,_P._Tan_Phong",7,4.3,75000
 D7_0214,Quan_Pho_Hau,Bistro,Vietnamese,"2B_Duong_So_12,_P._Tan_Quy",7,3.8,85000
 D7_0215,Tra_Sua_Story,Cafe,Vietnamese,"315/1_Le_Van_Luong,_P._Tan_Phong",7,4.25,45000
-D7_0216,Romance_Cafe_–_Merperle_Crystal_Palace,Cafe,Vietnamese,"Tang_4_MerPerle_Crystal_Palace,_Lo_C17__1__2_Nguyen_Luong_Bang",7,4.2,150000
 D7_0217,Meat_&_Meet_Korean_BBQ_Container__Crescent_Mall,Restaurant,Korean,"4F__01_Crescent_Mall,_101_Ton_Dat_Tien,_P._Tan_Phu",7,3.75,628000
 D7_0218,Quan_Chay_Tam_Duc__Him_Lam,Restaurant,Vietnamese,"G23_Duong_3A,_KDC_Him_Lam,_P._Tan_Hung",7,3.75,40000
 D7_0219,Meow__Sinh_To_&_Tra_Sua,Cafe,Vietnamese,"173_Duong_So_17,_P._Tan_Quy",7,4.05,50000
@@ -3189,7 +3172,6 @@ D8_0160,Bo_La_Lot_Mo_Chai__Duong_So_10,Restaurant,Vietnamese,98_Duong_So_10,8,5,
 D8_0161,ARCLine_Tea_&_Coffee,Cafe,Vietnamese,"637_Ta_Quang_Buu,_P.__4",8,4.7,23500
 D8_0162,Pan_Pu_Pam__Goi_Du_Du_Thai_Lan,Restaurant,Vietnamese,"38_Au_Duong_Lan,_P._3",8,3.8,41000
 D8_0163,Bep_Dinh_Duong__Com_Vi_Nguoi_Hoa__Shop_Online,Restaurant,Chinese,"75/4_Phong_Phu,_P._11",8,4.6,35000
-D8_0164,Vivi’s_House_Bakery,Bakery,Vietnamese,"15/21_Binh_Duc,_P._15",8,4,150000
 D8_0165,Sui_Cao_Dai_Loan,Restaurant,Vietnamese,"478_Bui_Minh_Truc,_P._6",8,4.5,30000
 D8_0166,Bep_Nha_Bao_Tieu_Thu__Com_&_Banh_Tam_Bi,Bistro,Vietnamese,"43_Dao_Cam_Moc,_P._4",8,3.85,30000
 D8_0167,De_Nhat_Panda_BBQ,Bistro,Vietnamese,"103_Duong_So_8,_KDC_Trung_Son",8,3.9,87500
@@ -3597,7 +3579,6 @@ D8_0568,Banh_Flan_Anh_Hiep,Restaurant,Vietnamese,"44A_Pham_The_Hien,_P._4",8,4.1
 D8_0569,Song_Huynh_2_Cafe,Cafe,Vietnamese,"925_Ta_Quang_Buu,_P._5",8,5,42000
 D9_0001,Gogi_House__Quan_Nuong_Han_Quoc__Vincom_Le_Van_Viet,Bistro,Korean,"Tang_L402_Vincom_Le_Van_Viet,_50_Le_Van_Viet,_P._Hiep_Phu",9,4.05,400000
 D9_0002,Tra_Sua_Wait_Tea_Vietnam__Le_Van_Viet,Cafe,Vietnamese,"503_Le_Van_Viet,_P._Tang_Nhon_Phu_A",9,4.65,50000
-D9_0003,Domino’s_Pizza__Le_Van_Viet,Restaurant,Italian,"196_Le_Van_Viet,_P._Tang_Nhon_Phu_B",9,3.7,140000
 D9_0004,King_BBQ__Vua_Nuong_Han_Quoc__Vincom_Le_Van_Viet,Restaurant,Korean,"Vincom_Le_Van_Viet,_50_Le_Van_Viet,_P._Hiep_Phu",9,3.8,350000
 D9_0005,Buffet_Beo_99k,Restaurant,Vietnamese,"6_Tang_Nhon_Phu,_P._Phuoc_Long_B",9,3.7,87000
 D9_0006,HIA_Corner__Man_Thien,Cafe,Vietnamese,"35_Man_Thien,_P._Hiep_Phu",9,4.85,35000
@@ -4014,7 +3995,6 @@ D9_0416,Com_Tam_Thuan_Kieu__Suoi_Tien,Bistro,Vietnamese,"98_Quoc_Lo_1A,_P._Tan_P
 D9_0417,Lau_Ga_La_E_O_O_O_O,Bistro,Vietnamese,"5_Dinh_Phong_Phu,_P_Tang_Nhon_Phu_B",9,4.5,200000
 D9_0418,Com_Tam_My_Phuong,Bistro,Vietnamese,"138A_Do_Xuan_Hop,_P._Phuoc_Long",9,3.1,40000
 D9_0419,Tea_Ship,Cafe,Vietnamese,"26_Duong_So_18A,_KP_3,_P._Phuoc_Binh",9,3.45,21000
-D9_0420,Domino_Cafe__La_Xuan_Oai,Cafe,Vietnamese,"419_La_Xuan_Oai,_P._Truong_Thanh",9,4.4,20000
 D9_0421,Buon_Ca_Phe__Le_Van_Viet,Cafe,Vietnamese,"L105D_Vincom_Plaza,_50_Le_Van_Viet,_P._Hiep_Phu",9,4.9,40000
 D9_0422,Banh_Canh_Ca_Loc_O_Kieu_Vietnam,Bistro,Vietnamese,"12/15_Truong_Van_Thanh,_P._Hiep_Phu",9,3.7,40000
 D9_0423,Yellow_Tail_Sushi__Mon_An_Nhat_Ban,Bistro,Vietnamese,"Chung_Cu_9_View,_1_Duong_So_1,_P._Phuoc_Long_B",9,4.7,189000
@@ -4046,7 +4026,6 @@ D10_0012,Hallyu__Korean_Fast_Food__Tran_Minh_Quyen,Bistro,Korean,"07_Tran_Minh_Q
 D10_0013,Con_Ga_Nuong__Thanh_Thai,Bistro,Vietnamese,"152/7_Thanh_Thai,_P._12",10,3.35,87500
 D10_0014,Kleine_Ecke_Cafe__To_Hien_Thanh,Cafe,Vietnamese,"339/34A1_To_Hien_Thanh,_P._12",10,3.7,60000
 D10_0015,Hawaii_Kia,Cafe,Vietnamese,401_Su_Van_Hanh,10,3.5,42500
-D10_0016,Domino’s_Pizza__Nguyen_Tri_Phuong,Restaurant,Vietnamese,"313_Nguyen_Tri_Phuong,_P._5",10,3.7,124000
 D10_0017,TikTak__Tra_Sua_&_Tra_Dao__Cach_Mang_Thang_8,Cafe,Vietnamese,"503B_Cach_Mang_Thang_8,_P._13",10,3.45,20000
 D10_0018,Chi_3__Bun_Nuoc__To_Hien_Thanh,Bistro,Vietnamese,"495/2_To_Hien_Thanh,_P._14",10,3.4,37500
 D10_0019,Com_Nieu_Thien_Ly__Cuu_Long,Bistro,Singapore,"87A_Cuu_Long,_P._15",10,3.45,62500
@@ -4156,7 +4135,6 @@ D10_0122,Salad_Poki_Katuri,Bistro,Vietnamese,"458_Ba_Hat,_P._8",10,4.1,52500
 D10_0123,Ryucha__Japanese_Tea_&_Juice__Su_Van_Hanh,Cafe,Japanese,"770D_Su_Van_Hanh,_P._12",10,3.85,40000
 D10_0124,Che_Sinh_Vien_007,Restaurant,Vietnamese,"007_Lo_R,_Chung_Cu_Ngo_Gia_Tu,_P._3",10,3.5,13500
 D10_0125,Banh_Sau_Rieng_Durio__Le_Thi_Rieng,Bakery,Singapore,"Kiot_Cong_Vien_Le_Thi_Rieng,_Cach_Mang_Thang_8",10,3.45,32000
-D10_0126,Kem_BUD’S__Duong_3_Thang_2,Cafe,USA,"547B_Duong_3_Thang_2,_P._8",10,3.7,145000
 D10_0127,Mi_Han_Quoc__3_Thang_2,Restaurant,Vietnamese,"145_Duong_3_Thang_2,__P._11",10,3.1,215000
 D10_0128,The_Daily_Coffee__Tran_Minh_Quyen,Cafe,Vietnamese,"42_Tran_Minh_Quyen,_P._11",10,3.9,37500
 D10_0129,Mango_Story_Saigon__Mon_Thai,Cafe,Vietnamese,"385_Su_Van_Hanh,_P._12",10,3.7,60000
@@ -4172,7 +4150,6 @@ D10_0138,Bun_Dau_Homemade__Ngo_Gia_Tu,Bistro,Vietnamese,"303_Ngo_Gia_Tu,_P._3",1
 D10_0139,Vuon_Oc_Wongnai,Bistro,Vietnamese,"Bai_Xe_Big_C_To_Hien_Thanh,_268_To_Hien_Thanh",10,4.85,107500
 D10_0140,Lau_Bo_Hoang_Thu__Ho_Thi_Ky,Bistro,Vietnamese,"84/1_Ho_Thi_Ky,_P._1",10,3.15,120000
 D10_0141,Song_Tra__Mi_Quang_&_Com_Ga,Bistro,Vietnamese,7/25_Thanh_Thai,10,3.1,35000
-D10_0142,McDonald’s_Saigon_Supermarket,Bistro,USA,"Sieu_Thi_Sai_Gon,_460_Duong_3_Thang_2,_P._12",10,3.35,65000
 D10_0143,An_Vat_Nhu_Quynh,Bistro,Vietnamese,"154/17_Ho_Ba_Kien,_P._15",10,4.85,54000
 D10_0144,Hoang_Ty__Dac_San_Trang_Bang__Thanh_Thai,Bistro,Vietnamese,120_Thanh_Thai,10,3.1,85000
 D10_0145,The_Gioi_Ga_Nuong,Bistro,Vietnamese,"36B_Dong_Nai,_P._15",10,3.4,60000
@@ -4400,7 +4377,6 @@ D11_0013,An_Vat_Thuy_Hang,Restaurant,Vietnamese,"10_Duong_Dinh_Nghe,_P._8",11,3.
 D11_0014,Lau_Ca_Duoi_345A__Le_Dai_Hanh,Bistro,Vietnamese,"345_Le_Dai_Hanh,_P._13",11,3.9,142500
 D11_0015,Mi_Quan__Quang_Tan_Noi,Restaurant,Vietnamese,221_Ton_That_Hiep,11,3.7,67000
 D11_0016,Tra_Sua_First_Kiss__Minh_Phung,Cafe,Vietnamese,"401_Minh_Phung,_P._10",11,3.9,13500
-D11_0017,Domino’s_Pizza__Hoa_Binh,Restaurant,Vietnamese,"48_Hoa_Binh,_P._5",11,3.75,124000
 D11_0018,Cha_Lui_Lagi__Nha_Tho_Ham,Restaurant,Vietnamese,5A_Chung_Cu_162_Nguyen_Thi_Nho,11,3.55,24000
 D11_0019,Sui_Cao_193__Ha_Ton_Quyen,Bistro,Chinese,"193_Ha_Ton_Quyen,_P._4",11,3.6,35000
 D11_0020,Hanh_Dung__Am_Thuc_Chay_Man,Restaurant,Vietnamese,"111__113__Au_Co,_P._14",11,3.75,40000
@@ -4543,7 +4519,6 @@ D11_0156,TocoToco_Bubble_Tea__Au_Co,Cafe,Vietnamese,"233_Au_Co,_P._5",11,3.1,585
 D11_0157,"Fruit_Crush__Trai_Cay_Tuoi,_Banh_Trang_&_An_Vat",Restaurant,Vietnamese,93/4_Duong_100_Binh_Thoi,11,4.25,35000
 D11_0158,Diem_Tam_288__Bun_Thit_Xao_&_Chao_Bac_Thao,Restaurant,Vietnamese,"288_Do_Ngoc_Thanh,_P._4",11,3.3,23500
 D11_0159,Nova_Coffee_&_Tea,Cafe,Vietnamese,"57_Duong_So_2,_Cu_Xa_Binh_Thoi,_P._8",11,4,32500
-D11_0160,Pizza_4P’S__Pizza_Kieu_Nhat__Le_Dai_Hanh,Restaurant,Vietnamese,"184_Le_Dai_Hanh,_P._15",11,4.55,350000
 D11_0161,One_Steak__Chuyen_Bo_My_&_Ca_Hoi__Lo_Sieu,Restaurant,Vietnamese,"26A_Lo_Sieu,_P._16",11,3.9,55000
 D11_0162,Co_Tho__Lau_Ca,Restaurant,Vietnamese,"1353_Duong_3_Thang_2,_P._16",11,3.15,80000
 D11_0163,"Healthy_Bar_By_Zoe__Tra_Sua,_Nuoc_Trai_Cay_&_Banh_Dua_Hau",Cafe,Vietnamese,"172H__172I_Lac_Long_Quan,_P._10",11,4.65,46500
@@ -4955,7 +4930,6 @@ D12_0132,Suka__Fashion_&_Tea,Restaurant,Vietnamese,"A60_To_Ky,_P._Dong_Hung_Thua
 D12_0133,An_Vat_Ngon__Song_Hanh_Quoc_lo_22,Restaurant,Vietnamese,"29_Song_Hanh_Quoc_Lo_22,_P._Tan_Hung_Thuan",12,3.95,20000
 D12_0134,Trung_Nguyen_Coffee__Nguyen_Van_Qua,Cafe,Vietnamese,"652_Nguyen_Van_Qua,_P._Dong_Hung_Thuan",12,3.85,37500
 D12_0135,Huong_Que__Bun_Dau_Mam_Tom__Trung_My_Tay_13,Bistro,Vietnamese,"109_Trung_My_Tay_13,_P._Trung_My_Tay",12,3.65,47500
-D12_0136,Bo_Sot_Hau_D2__Nguyen_Van_Qua,Bistro,Vietnamese,"682_Nguye?Þn_Va?n_Qua,_P._Do?ng_Hu?ng_Thua?n",12,5,199000
 D12_0137,Passio_Coffee__Toa_Nha_QTSC_9,Cafe,Vietnamese,"Toa_Nha_QTSC_9,_Lo_42,_Duong_So_3,_CVPM_Quang_Trung",12,4.4,37500
 D12_0138,Tra_Sua_MayCha__Nguyen_Van_Qua,Cafe,Vietnamese,"56C_Nguyen_Van_Qua,_P._Dong_Hung_Thuan",12,3.35,23000
 D12_0139,Meobeotira__Meo_Beo_Cake_&_Tea__Restaurant,Restaurant,Vietnamese,Nguyen_Thi_Dang,12,4.4,35000
@@ -5739,12 +5713,10 @@ BC_0469,Tam_Moc,Restaurant,Vietnamese,"418_Tan_Tuc,_TT._Tan_Tuc",Binh_Chanh,4.2,
 BC_0470,Pho_Ga_O_Kia_-_Duong_So_9A,Bistro,Vietnamese,"97_Duong_So_9A,_KDC_Trung_Son,_P._Binh_Hung",Binh_Chanh,3.15,55000
 BC_0471,BBQ_Ngoi_-_Mon_Nuong,Bistro,Vietnamese,"168_Duong_So_1,_KDC_Trung_Son",Binh_Chanh,3.25,109000
 BC_0472,Mai_La_-_Hai_San_Tuoi_Song,Bistro,Vietnamese,"Lien_Ap_1_-_2_-_3,_Xa_Vinh_Loc_A",Binh_Chanh,3.8,184500
-BC_0473,Domino's_Pizza_-_Nguyen_Thi_Tu,Bistro,Asian,"D1/10D_Nguyen_Thi_Tu,_Xa_Vinh_Loc_B",Binh_Chanh,3.95,124000
 BC_0474,Lau_De_404_-_Duong_so_9,Bistro,Vietnamese,"110A_Duong_So_9A,_Khu_Dan_Cu_Trung_Son,_P._Binh_Hung",Binh_Chanh,3.3,135000
 BC_0475,Quan_Rau_Rung_Trung_Son_-_Banh_Xeo,Bistro,Vietnamese,"13_Duong_So_8,_Khu_Dan_Cu_Trung_Son",Binh_Chanh,3.35,55000
 BC_0476,Quan_Chi_Dau_-_Duong_So_8,Bistro,Vietnamese,"113_Duong_So_8,_KDC_Trung_Son",Binh_Chanh,3.95,325000
 BC_0477,Hu_Tieu_Nam_Vang_Nhan_Quan_-_Quoc_Lo_50,Bistro,Vietnamese,"A23/9_Quoc_Lo_50,_X._Binh_Hung",Binh_Chanh,3.25,61000
-BC_0478,McDonald’s_Satra_Pham_Hung,Restaurant,Asian,"Tang_Tret,_TTTM_Satra_Pham_Hung,_C6/27_Pham_Hung,_Xa_Binh_Hung",Binh_Chanh,3.5,125000
 BC_0479,Ok_3_Con_De_-_Lau_De_Chinh_Hieu_-_Pham_Hung,Bistro,Vietnamese,C3/9_Pham_Hung,Binh_Chanh,3,100000
 BC_0480,Kim_Son_Quan,Restaurant,Vietnamese,"C3/13_Pham_Hung,_Xa_Binh_Hung",Binh_Chanh,4.25,190000
 BC_0481,Xien_Khe_Quan_-_Duong_So_9A,Bistro,Vietnamese,199_Duong_So_9A,Binh_Chanh,3.35,125000
@@ -6162,7 +6134,6 @@ BT_0344,Citizen_Cafe,Cafe,Vietnamese,"92_Duong_So_7,_P._Binh_Tri_Dong_B",Binh_Ta
 BT_0345,TocoToco_Go_May_-_783_Le_Trong_Tan,Cafe,Vietnamese,"783_Le_Trong_Tan,_P._Binh_Hung_Hoa",Binh_Tan,4.05,42500
 BT_0346,Cafe_IYO_-_Ca_Phe_Kem_Muoi_-_Duong_So_7,Cafe,Vietnamese,"157_Duong_So_7,_P._Binh_Tri_Dong_B",Binh_Tan,3.95,40500
 BT_0347,"Ba_Chi_Em_-_Com_Chien,_Mi_Xao_&_Hu_Tieu_Xao",Bistro,Vietnamese,"114/8/3/1_Chien_Luoc,_P._Binh_Tri_Dong",Binh_Tan,4.75,49500
-BT_0348,Hutong_-_Hotpot_Paradise_-_Aeon_Mall_Binh_Tan,Restaurant,Chinese,"Lo_T12,_Lau_3,_TTTM_AEON_Binh_Tan, So_1_Duong_So_17A",Binh_Tan,3.75,190000
 BT_0349,Com_Nieu_Thien_Ly_-_Binh_Tan,Bistro,Vietnamese,"120_Duong_So_7,_P._Binh_Tri_Dong_B",Binh_Tan,4.25,65000
 BT_0350,Com_Van_Phong_Home,Restaurant,Vietnamese,"353/1_Chien_Luoc,_P._Binh_Tri_Dong_A",Binh_Tan,3.1,65000
 BT_0351,Royaltea_Shanghai_-_Duong_So_17A,Cafe,Chinese,"18_Duong_So_17A,_P._Binh_Tri_Dong_B",Binh_Tan,3.75,50000
@@ -6383,7 +6354,6 @@ BTh_0015,Bodo__Mon_Han_&_Mon_Au__Dinh_Bo_Linh,Bistro,Korean,139/23_Dinh_Bo_Linh,
 BTh_0016,Sushi_Nhi__Nguyen_Cong_Tru,Restaurant,Japanese,"21_Nguyen_Cong_Tru,_P._19",Binh_Thanh,3.8,40000
 BTh_0017,Quan_Pong__Dac_San_Phan_Rang__Nguyen_Gia_Tri,Restaurant,Vietnamese,"168/73_Nguyen_Gia_Tri_(Duong_D2),_P._25",Binh_Thanh,3.4,9500
 BTh_0018,Merci_RES__Chao_Ech_Singapore__Vu_Huy_Tan,Bistro,Singapore,35_Vu_Huy_Tan,Binh_Thanh,3.55,62500
-BTh_0019,Oc_“Mam_Sua”,Bistro,Vietnamese,"282/4A_Bui_Huu_Nghia,_P._2",Binh_Thanh,3,37000
 BTh_0020,Kem_2B,Cafe,Vietnamese,"292/2_No_Trang_Long,_P.12",Binh_Thanh,3.85,40000
 BTh_0021,Ga_Nuong_Anh_Tu,Bistro,Vietnamese,"449_Le_Quang_Dinh,_P._5",Binh_Thanh,3.65,70000
 BTh_0022,Xien_Nuong_Be_Map_2__No_Trang_Long,Bistro,Vietnamese,"279_No_Trang_Long,_P._13",Binh_Thanh,3.5,32500
@@ -6472,7 +6442,6 @@ BTh_0104,Moc_Vi_Quan__Mi_Quang_&_Com_Dia_Nong__Nguyen_Gia_Tri,Restaurant,Vietnam
 BTh_0105,TikTak__Tra_Sua_&_Tra_Dao__Dien_Bien_Phu,Cafe,Vietnamese,"333_Dien_Bien_Phu,_P._15",Binh_Thanh,3.55,40000
 BTh_0106,Sonia's_Bakery__Banh_Chuoi_Nuong_Bo_Sua__Shop_Online,Restaurant,Vietnamese,"195/28_Nguyen_Van_Thuong,_P._25",Binh_Thanh,4.65,45000
 BTh_0107,Dalat_Foods__Banh_Trang_Nuong_&_Banh_Can,Bistro,Vietnamese,118/118_Bach_Dang,Binh_Thanh,3.35,17000
-BTh_0108,Domino’s_Pizza__Dinh_Bo_Linh,Restaurant,USA,"138_Dinh_Bo_Linh,_P._26",Binh_Thanh,3.95,147500
 BTh_0109,Krua_Thai__Goi_Thai__Huynh_Dinh_Hai,Bistro,Thailand,42_Huynh_Dinh_Hai,Binh_Thanh,3.95,30000
 BTh_0110,Caffeine__Nguyen_Xi,Cafe,Vietnamese,"10_Nguyen_Xi,_P._26",Binh_Thanh,3.7,35000
 BTh_0111,Bula_Bento__Com_Trua_&_An_Toi__Duong_D5,Bistro,Vietnamese,"147_Duong_D5,_P._25",Binh_Thanh,3.7,75000
@@ -7631,7 +7600,6 @@ HM_0499,Vuon_Nuong_Han_Quoc_-_Song_Hanh,Bistro,Korean,"19/9_Song_Hanh,_Xa_Tan_Xu
 HM_0500,Lau_Bo_Chin_Teo,Bistro,Vietnamese,"27/1A_Ba_Diem_10,_Ap_Nam_Lan",Hoc_Mon,3.65,135000
 HM_0501,Co_3_Coi_2_-_Buffet_Lau_&_Nuong,Restaurant,Vietnamese,"100/8_Song_Hanh,_X._Tan_Xuan",Hoc_Mon,4.2,119000
 HM_0502,Ga_Hap_Hem_34_Hoc_Mon,Bistro,Vietnamese,"52/4_Nguyen_Thi_Thu,_Xa_Xuan_Thai_Son",Hoc_Mon,3.35,159000
-HM_0503,Domino’s_Pizza_-_Le_Thi_Ha,Restaurant,USA,"38/5_Le_Thi_Ha,_KP._8,_TT._Hoc_Mon",Hoc_Mon,4.6,124000
 HM_0504,Nha_Hang_Vuon_Lan,Restaurant,Vietnamese,45_Song_Hanh_QL_22,Hoc_Mon,3.6,115000
 HM_0505,Goi_Vit_Tuan_Anh,Bistro,Vietnamese,"11/3_Do_Van_Day,_Xa_Tan_Hiep",Hoc_Mon,4.95,115000
 HM_0506,Vi_Da_Garden_-_Cafe_&_Mon_Hue,Cafe,Vietnamese,46_Song_Hanh,Hoc_Mon,3.8,115000
@@ -8383,7 +8351,6 @@ TB_0144,Quan_An_Gia_Dinh_Sai_Gon_-_Lau_&_Ne,Bistro,Vietnamese,"230_Dong_Den,_P._
 TB_0145,Him_Coffee_&_More_-_Le_Van_Sy,Cafe,Vietnamese,"323_Le_Van_Sy,_P._1",Tan_Binh,4,42500
 TB_0146,Dallas_Cakes_&_Coffee_-_Cong_Hoa,Bakery,Asian,"53_Cong_Hoa,_P._4",Tan_Binh,4.05,32000
 TB_0147,Bun_Dau_Hem_-_Le_Van_Sy,Bistro,Vietnamese,"281/13/13_Le_Van_Sy,_P._1",Tan_Binh,3.35,45000
-TB_0148,Ken’s_House_-_Coffee_&_Pet,Cafe,Vietnamese,"231_Pham_Van_Hai,_P._5",Tan_Binh,3.45,110000
 TB_0149,Beefsteak_Titi_-_Le_Van_Sy,Restaurant,French,"300A_Le_Van_Sy,_P._1",Tan_Binh,3.4,57500
 TB_0150,Bun_Ca_Ro_Dong_&_Bun_Cha_Ca,Bistro,Vietnamese,"8_Van_Chung,_P._13",Tan_Binh,4.85,25000
 TB_0151,Nha_Yen_-_Yaourt_Yen_Sao_-_Shop_Online_-_Au_Co,Restaurant,Vietnamese,"536/47/8_Au_Co,_P._10",Tan_Binh,4.65,19500
@@ -8450,7 +8417,6 @@ TB_0211,Otoke_Chicken_-_Ga_Ran_Han_Quoc_-_Dong_Den,Restaurant,Korean,"116_Dong_D
 TB_0212,Chinh_Ky_Mi_Gia_-_Pham_Van_Hai,Bistro,Chinese,"166_Pham_Van_Hai,_P._3",Tan_Binh,3.35,64000
 TB_0213,Hima_Coffee_Rooftop,Cafe,Vietnamese,"Tang_12,_Toa_Nha_ATHENA,_146_-_148_Cong_Hoa,_P._4",Tan_Binh,3.95,50000
 TB_0214,Mon_Quang_Ma_Xuan,Bistro,Vietnamese,"120_Bau_Cat_1,_P._12",Tan_Binh,4.1,11250
-TB_0215,Chef_Mamma’s_-_Am_Thuc_Viet_Y,Restaurant,Vietnamese,"A43_Truong_Son,_P._4",Tan_Binh,3.55,30000
 TB_0216,Mama's_Kitchen_-_Pizza_&_Pasta_-_Bach_Dang,Restaurant,Asian,"B18_Bach_Dang,_P._2",Tan_Binh,4.1,59500
 TB_0217,Quan_Oc_Ngon_-_Dat_Thanh,Bistro,Vietnamese,"36_Dat_Thanh,_P._6",Tan_Binh,3.5,23500
 TB_0218,Biedaily_-_Banh_Sau_Rieng_Kem_Lanh,Bakery,Vietnamese,"80/8_Ba_Van,_P._14",Tan_Binh,4.2,35000
@@ -8467,7 +8433,6 @@ TB_0228,Ngoc_Suong_-_Hoang_Viet,Restaurant,Vietnamese,6_Hoang_Viet,Tan_Binh,3.65
 TB_0229,Hogi_Bakehouse_-_Banh_Crepe_&_Tart_Trung_-_Nguyen_Bac,Bakery,Vietnamese,"71/39/26B_Nguyen_Bac,_P._3",Tan_Binh,4.05,32500
 TB_0230,Royaltea_-_Tra_Sua_Hong_Kong_-_Tran_Quoc_Hoan,Cafe,Chinese,"45_Tran_Quoc_Hoan,_P._4",Tan_Binh,3.95,48000
 TB_0231,Kem_Bo_Avo_-_Everything_Avocado,Cafe,Vietnamese,"1219/42_Hoang_Sa,_P._5",Tan_Binh,4.4,23500
-TB_0232,McDonald's_Tan_Son_Nhat,Restaurant,USA,"Ga_Quoc_Noi_San_Bay_Tan_Son_Nhat,_Truong_Son,_P._2",Tan_Binh,3.65,55000
 TB_0233,Mi_Y_Nha_Pasta_-_Spaghetti,Bistro,Italy,"281/45/11_Le_Van_Sy,_P._1",Tan_Binh,4.45,39000
 TB_0234,PPG_Nama_Chocolate_Homemade_-_Shop_Online,Restaurant,Vietnamese,"1500_Truong_Sa,_P._3",Tan_Binh,4.1,32500
 TB_0235,Banh_Can_Phan_Thiet_-_Nguyen_Quang_Bich,Bistro,Vietnamese,"11_Nguyen_Quang_Bich,_P._13",Tan_Binh,3.65,35000
@@ -8980,8 +8945,6 @@ TD_0356,Hokkaido_Baked_Cheese_Tart_-_Gigamall,Bakery,Japanese,"Tang_4_Giga_Mall,
 TD_0357,Beefsteak_Bo_Lang_Thang,Bistro,Vietnamese,"6_Duong_So_10,_P._Hiep_Binh_Chanh",Thu_Duc_city,4.5,54000
 TD_0358,Hu_Tieu_Muc_Ong_Gia_Cali_-_Dang_Van_Bi,Bistro,Vietnamese,"15_Dang_Van_Bi,_P._Binh_Tho",Thu_Duc_city,3.05,53500
 TD_0359,MrBao_Cuisine_-_Bo_Uc_-_Mi_Y,Bistro,Italian,"8_Duong_So_8,_Khu_Pho_3,_P._Linh_Trung",Thu_Duc_city,4,83000
-TD_0360,Domino’s_Pizza_-_Kha_Van_Can,Restaurant,Vietnamese,738_Kha_Van_Can,Thu_Duc_city,3.8,124000
-TD_0361,Papas'_Chicken_&_Beer_Thu_Duc,Restaurant,Korean,"165_Thong_Nhat,_P._Binh_Tho",Thu_Duc_city,3.5,100000
 TD_0362,Lau_Bo_Giao_Toan,Bistro,Vietnamese,"218_Quoc_Lo_1K,_P._Linh_Xuan",Thu_Duc_city,3.2,91000
 TD_0363,Chang_-_Modern_Thai_Cuisine_-_Vo_Van_Ngan,Restaurant,Thailand,"292_Vo_Van_Ngan,_P._Binh_Tho",Thu_Duc_city,4.45,175000
 TD_0364,Nha_Hang_Sesan_-_Hai_San_&_Hang_Rung,Restaurant,Vietnamese,"14_Einstein,_P._Binh_Tho",Thu_Duc_city,4,135000
@@ -9107,9 +9070,6 @@ TP_0049,Oc_Nho_Sai_Gon_-_Trinh_Dinh_Trong,Bistro,Vietnamese,"136_Trinh_Dinh_Tron
 TP_0051,Chicken_Go_Saigon_-_Shop_Online,Restaurant,Vietnamese,111_Le_Sat_P._Tan_Quy,Tan_Phu,3.4,75000
 TP_0052,Niku_Town_-_Beer_&_BBQ_&_Hotpot,Bistro,Vietnamese,"101A_Bo_Bao_Tan_Thang,",Tan_Phu,3.25,125000
 TP_0053,Chao_Ca_-_AEON_Mall_Tan_Phu,Restaurant,Vietnamese,"Floor_3,_AEON_Mall_Tan_Phu,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,4.5,599500
-TP_0054,Trong_Com_-_Vietnamese_Casual_Food_-_AEON_Mall_Tan_Phu,Restaurant,Vietnamese,"Floor_3, ",Tan_Phu,4.05,147500
-TP_0055,Nicky_BT_&_HBG_-_Beefsteak_&_Hamburger_-_AEON_Mall,Restaurant,Asian,________________________________________,Tan_Phu,3.4,77500
-TP_0056,Xuan_Duc_-_Lau_Cua_Dong,Bistro,Vietnamese,"____________________________________________Tang_3_AEON_Mall_Tan_Phu,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,4.4,172500
 TP_0057,Trung_Nguyen_Coffee_-_Pandora_City,Cafe,Vietnamese,Floor_2_AEON_Mall_30_Bo_Bao_Tan_Thang_P._Son_Ky,Tan_Phu,3.65,58500
 TP_0058,Hurom_Juice_Cafe_-_Aeon_Mall_Tan_Phu,Cafe,Vietnamese,"2/11/1A_Nguyen_Van_Vinh,_P._Hiep_Tan,",Tan_Phu,3.6,95000
 TP_0059,Nam_Ngoc_Hien_-_Tra_Quan,Cafe,Vietnamese,"Tang_1_Pandora_City,_1/1_Truong_Chinh,_P._Tay_Thanh,",Tan_Phu,4.55,120000
@@ -9126,7 +9086,6 @@ TP_0069,Ca_Ri_Ga_Ta_-_Bun_Ca_Ri_Ga_Ta,Bistro,Vietnamese,"155_Kenh_Tan_Hoa,_P._Ho
 TP_0070,MDT_-_Many_Different_Tastes_Coffee_-_Pandora_City,Cafe,Italian,"158_Go_Dau,_P._Tan_Quy,",Tan_Phu,3.75,72500
 TP_0071,A_Doi_-_Ga_Ta_Quan_-_AEON_Mall_Tan_Phu,Restaurant,Vietnamese,"314_Thoai_Ngoc_Hau,_P._Phu_Thanh,",Tan_Phu,4.15,255000
 TP_0072,Tra_Sua_Heekcaa_Sai_Gon_-_Celadon_City,Cafe,Asian,"Tang_4_Pandora_City,_1/1_Truong_Chinh,_P._Tay_Thanh,",Tan_Phu,3.75,47500
-TP_0073,Tuyet_Nhu_-_Be_Thui_&_Hai_San,Restaurant,Vietnamese,"Tang_3, Lo_T41_Tang_3,_AEON_Mall_Tan_Phu,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,3.3,72500
 TP_0074,Banh_Canh_Ghe_Trang_-_Luy_Ban_Bich,Bistro,Vietnamese,"E1_-_19_Celadon_City,_36_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,4,67500
 TP_0075,HappySteak_-_Beefsteak_&_Spaghetti_-_Tan_Son_Nhi,Restaurant,Vietnamese,"7_Tan_Thanh,_P.Hoa_Thanh,",Tan_Phu,3.95,192500
 TP_0076,The_Gioi_Steak_-_Tan_Son_Nhi,Restaurant,Asian,"587_Luy_Ban_Bich,_P._Phu_Thanh,",Tan_Phu,3.3,72500
@@ -9177,7 +9136,6 @@ TP_0120,Fansipan_-_Korean_Coffee,Cafe,Korean,"110_To_Hieu,",Tan_Phu,3.65,40000
 TP_0121,Hana_Food_-_Shop_Trai_Cay_Online,Restaurant,Vietnamese,"G_Floor,_Cong_B1/C1,_G61B_AEON_Mall_Tan_Phu,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,3.8,32500
 TP_0122,The_Pi_Neo_-_Coffee_&_Tea,Cafe,Vietnamese,"Toa_Nha_Babylon,_683A_Au_Co,_P._Tan_Thanh",Tan_Phu,3.85,37500
 TP_0123,Rica_Coffee,Cafe,Vietnamese,"Hem_144_Le_Trong_Tan,_P._Tay_Thanh,",Tan_Phu,3.95,37500
-TP_0124,Tra_Sua_Mint_-_An_Vat_-_Tan_Thang,Cafe,Vietnamese,"G_Floor, 15_Vuon_Lai,_P._Phu_Tho_Hoa",Tan_Phu,4.95,27500
 TP_0125,A_Tinh_-_Com_Lam_&_Bun_Thit_Nuong,Bistro,Vietnamese,"90_-_92_Tan_Huong,__P._Tan_Thanh,",Tan_Phu,4.65,30000
 TP_0126,11:11_Coffee_&_Home,Cafe,Asian,"87/2_Tan_Thang,_P._Son_Ky,",Tan_Phu,3.8,30000
 TP_0127,Thanh_My_-_Bun_Bo_Hue,Bistro,Vietnamese,"79/30_Phu_Tho_Hoa,_P._Phu_Tho_Hoa,",Tan_Phu,3.85,32500
@@ -9270,7 +9228,6 @@ TP_0213,Banh_Beo_Di_Ha,Restaurant,Vietnamese,"160_Le_Thuc_Hoach,_P._Tan_Quy,",Ta
 TP_0214,Miko_Cakes_-_Tiem_Banh_Online,Bakery,Vietnamese,"Lo_D1_Chung_Cu_Huynh_Van_Chinh_2,_P._Phu_Trung,",Tan_Phu,4,232500
 TP_0215,Bamboo_Dimsum_-_AEON_Mall_Tan_Phu,Bistro,Chinese,"Hem_147/7_Tan_Ky_Tan_Quy,_P._Tan_Son_Nhi,",Tan_Phu,3.2,37500
 TP_0216,Banh_Trang_Tron_3_Chi_Em,Restaurant,Vietnamese,"Gan_Aeon_Mall_Tan_Phu,_P._Son_Ky,",Tan_Phu,5,17500
-TP_0217,Mi_Cay_The_Bon,Cafe,Vietnamese,"Floor_2, ",Tan_Phu,4.15,27500
 TP_0218,Banh_Uot_Nhu_Lan_-_Hoa_Binh,Bistro,Vietnamese,________________________________________,Tan_Phu,3.6,24000
 TP_0219,Hoa_Ly_-_Tra_Sua_Nha_Lam_-_Nguyen_Nhu_Lam,Cafe,Vietnamese,"____________________________________________Tang_2_Khu_Food_Court_AEON_Mall_Tan_Phu,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,3.4,17500
 TP_0220,Mr._Mon_Coffee_&_Candy_Shop_-_Thong_Nhat,Cafe,Vietnamese,"91_Duong_S11,_P._Tay_Thanh_(Ben_Chung_Cu),",Tan_Phu,4,22000
@@ -9366,7 +9323,6 @@ TP_0309,Doraemon_Tofu_Factory_-_AEON_Mall,Bakery,Japanese,"60A_Nguyen_Xuan_Khoat
 TP_0310,Banh_Bao_Chien_Nuoc_-_Luong_The_Vinh,Restaurant,Taiwanese,6_Nguyen_Son_P._Phu_Tho_Hoa,Tan_Phu,3.35,9500
 TP_0311,Five_Star_Viet_Nam_-_Nguyen_Xuan_Khoat,Bistro,Vietnamese,"222_Thoai_Ngoc_Hau,_P._Phu_Thanh,",Tan_Phu,4.7,26000
 TP_0312,Banh_Trang_Nuong_Le_La,Restaurant,Vietnamese,"10_Le_Thuc_Hoach,_P._Phu_Tho_Hoa",Tan_Phu,3.45,13500
-TP_0313,Goc_An_Vat_-_Tay_Thanh,Restaurant,Vietnamese,"G_Floor, Tang_Tret_AEON_Mall,_30_Bo_Bao_Tan_Thang,_P._Son_Ky,",Tan_Phu,3.8,43500
 TP_0314,Thuy_Linh_-_Kem_Xoi_Dua_Thai_Lan,Restaurant,Vietnamese,"63_Luong_The_Vinh,_P._Tan_Thoi_Hoa,",Tan_Phu,3.2,53000
 TP_0315,"102_-_Kem_Tuoi,_Kem_Chien_&_Ca_Vien_Chien",Restaurant,Vietnamese,"58_Nguyen_Xuan_Khoat,_P._Tan_Thanh,",Tan_Phu,3.4,28000
 TP_0316,Pha_Lau_&_Banh_Flan_-_Kenh_Tan_Hoa,Restaurant,Vietnamese,"50/11/3_Tay_Thanh,_P._Tay_Thanh,",Tan_Phu,4.25,12500
