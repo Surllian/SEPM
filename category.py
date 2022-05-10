@@ -1,4 +1,3 @@
-from jmespath import Options
 import streamlit as st
 import pandas as pd
 from streamlit_echarts import st_echarts
@@ -8,6 +7,7 @@ from pyecharts.faker import Faker
 from pyecharts.charts import Bar
 from streamlit_echarts import st_pyecharts
 import pyecharts.options as echarts
+from jmespath import Options
 
 
 
@@ -109,23 +109,22 @@ st_echarts(options=options, height="400px")
 
 st.subheader("Best 10 Buffet with average price")
 
-Options = {
-  "tooltip": {
-    "trigger": 'axis',
+options = {
+  "tooltip": { "trigger": "axis",
     "axisPointer": {
-      "type": 'shadow'
+      "type": "shadow"
     }
   },
   "grid": {
-    "left": '3%',
-    "right": '4%',
-    "bottom": '3%',
+    "left": "3%",
+    "right": "4%",
+    "bottom": "3%",
     "containLabel": True
   },
   "xAxis": [
     {
-      "type": 'category',
-      "data": ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+      "type": "category",
+      "data": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Su"],
       "axisTick": {
        " alignWithLabel": True
       }
@@ -133,19 +132,20 @@ Options = {
   ],
   "yAxis": [
     {
-      "type": 'value'
+      "type": "value"
     }
   ],
   "series": [
     {
-      "name": 'Direct',
-     " type": 'bar',
-     " barWidth": '60%',
+      "name": "Direct",
+     " type": "bar",
+     " barWidth": "60%",
       "data": [10, 52, 200, 334, 390, 330, 220]
     }
   ]
 };
-st_echarts(options=options, height="400px")
+st_echarts(
+  options=options, height="400px")
 
 st.subheader("Best 10 Restaurant with average price")
 st.subheader("Best 10 Street food with average price")
