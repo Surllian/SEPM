@@ -1,12 +1,9 @@
 from http.client import responses
-from pandas import read_csv
-
 import pandas as pd # library for data analysis
 import numpy as np # library for multi-dimensional arrays, high-level mathematical functions
 import json # library to handle JSON files
 import geojson
 import folium
-
 
 # from geopy.geocoders import Nominatim 
 # convert an address into latitude and longitude values
@@ -15,7 +12,6 @@ import requests # library to handle requests
 
 # import the data. 
 data_all = pd.read_csv("res_number.csv")
-# data_all['RestaurantNumber']=data_all['RestaurantNumber'].astype('int').astype()
 
 
 INDICATOR = 'The number of restaurants'
@@ -27,23 +23,23 @@ map_data = data_all[['District', 'RestaurantNumber']]
 map_data.head()
 
 # import geojson data.
-geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap/districts.geojson'
-response = requests.get(geojson_url)
-geojson = response.json()
+# geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap/districts.geojson'
+# response = requests.get(geojson_url)
+# geojson = response.json()
 
-# url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap'
-# district_shapes = f'{url}/districts.geojson'
+url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap'
+country_shapes = f'{url}/districts.geojson'
 
 M = folium.Map(location=[10.8131, 106.6897], zoom_start=10.3)
 
 
 folium.Choropleth(
-   geo_data = geojson,
-   # geo_data = district_shapes,
+   # geo_data = geojson,
+   geo_data = country_shapes,
    data = map_data,
    columns=['District','RestaurantNumber'],
-   # key_on='feature.properties.name',
-   key_on='feature.id',
+   key_on='feature.properties.name',
+   # key_on='feature.id',
 
    fill_color='YlOrRd',
    fill_opacity=0.9,
