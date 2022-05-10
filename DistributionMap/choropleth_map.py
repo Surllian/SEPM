@@ -15,7 +15,7 @@ import requests # library to handle requests
 
 # import the data. 
 data_all = pd.read_csv("res_number.csv")
-data_all['RestaurantNumber']=data_all['RestaurantNumber'].astype('int')
+# data_all['RestaurantNumber']=data_all['RestaurantNumber'].astype('int').astype()
 
 
 INDICATOR = 'The number of restaurants'
@@ -31,8 +31,8 @@ geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionM
 response = requests.get(geojson_url)
 geojson = response.json()
 
-url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap'
-district_shapes = f'{url}/districts.geojson'
+# url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap'
+# district_shapes = f'{url}/districts.geojson'
 
 M = folium.Map(location=[10.8131, 106.6897], zoom_start=10.3)
 
@@ -42,8 +42,8 @@ folium.Choropleth(
    # geo_data = district_shapes,
    data = map_data,
    columns=['District','RestaurantNumber'],
-   key_on='feature.properties.name',
-   # key_on='feature.id',
+   # key_on='feature.properties.name',
+   key_on='feature.id',
 
    fill_color='YlOrRd',
    fill_opacity=0.9,
