@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "GeometryCollection",
-      "properties": { "name": 1 },
+      "properties": { "name": "1" },
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -203,7 +203,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": 2 },
+      "properties": { "name": "2" },
 
       "geometries": [
         {
