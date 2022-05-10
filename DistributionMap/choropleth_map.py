@@ -14,7 +14,7 @@ import requests # library to handle requests
 
 # import the data. 
 data_all = pd.read_csv("res_number.csv")
-data_all['RestaurantNumber'] = data_all['RestaurantNumber'].astype('int').astype('str')
+# data_all['RestaurantNumber'] = data_all['RestaurantNumber'].astype('int')
 
 
 INDICATOR = 'The number of restaurants'
@@ -41,8 +41,8 @@ folium.Choropleth(
    geo_data = country_shapes,
    data = map_data,
    columns=['District','RestaurantNumber'],
-   # key_on='feature.properties.name',
-   key_on='feature.id',
+   key_on='feature.properties.name',
+   # key_on='feature.id',
 
    fill_color='YlOrRd',
    fill_opacity=0.9,
