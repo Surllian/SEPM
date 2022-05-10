@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "GeometryCollection",
-      "properties": { "name": "1" },
+      "properties": { "name": "1", "District": "1" },
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -203,7 +203,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "2" },
+      "properties": { "name": "2", "District": "2" },
 
       "geometries": [
         {
@@ -485,7 +485,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "3" },
+      "properties": { "name": "3", "District": "3" },
 
       "geometries": [
         {
@@ -729,7 +729,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "4" },
+      "properties": { "name": "4", "District": "4" },
 
       "geometries": [
         {
@@ -830,7 +830,7 @@
 
     {
       "type": "GeometryCollection",
-      "properties": { "name": "5" },
+      "properties": { "name": "5", "District": "5" },
 
       "geometries": [
         {
@@ -996,7 +996,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "6" },
+      "properties": { "name": "6", "District": "6" },
 
       "geometries": [
         {
@@ -1202,7 +1202,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "7" },
+      "properties": { "name": "7", "District": "7" },
 
       "geometries": [
         {
@@ -1501,7 +1501,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "8" },
+      "properties": { "name": "8", "District": "8" },
 
       "geometries": [
         {
@@ -1853,7 +1853,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "9" },
+      "properties": { "name": "9", "District": "9" },
 
       "geometries": [
         {
@@ -2277,7 +2277,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "10" },
+      "properties": { "name": "10", "District": "10" },
 
       "geometries": [
         {
@@ -2399,7 +2399,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "11" },
+      "properties": { "name": "11", "District": "11" },
 
       "geometries": [
         {
@@ -2558,7 +2558,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "12" },
+      "properties": { "name": "12", "District": "12" },
 
       "geometries": [
         {
@@ -2981,7 +2981,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Binh Tan" },
+      "properties": { "name": "Binh Tan", "District": "Binh Tan" },
 
       "geometries": [
         {
@@ -3296,7 +3296,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Binh Thanh" },
+      "properties": { "name": "Binh Thanh", "District": "Binh Thanh" },
 
       "geometries": [
         {
@@ -3634,7 +3634,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Go Vap" },
+      "properties": { "name": "Go Vap", "District": "Go Vap" },
 
       "geometries": [
         {
@@ -4049,7 +4049,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Phu Nhuan" },
+      "properties": { "name": "Phu Nhuan", "District": "Phu Nhuan" },
 
       "geometries": [
         {
@@ -4410,7 +4410,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Tan Binh" },
+      "properties": { "name": "Tan Binh", "District": "Tan Binh" },
 
       "geometries": [
         {
@@ -4745,7 +4745,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Tan Phu" },
+      "properties": { "name": "Tan Phu", "District": "Tan Phu" },
 
       "geometries": [
         {
@@ -5008,7 +5008,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Thu Duc" },
+      "properties": { "name": "Thu Duc", "District": "Thu Duc" },
       "geometries": [
         {
           "type": "MultiPolygon",
@@ -5942,7 +5942,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Binh Chanh" },
+      "properties": { "name": "Binh Chanh", "District": "Binh Chanh" },
 
       "geometries": [
         {
@@ -7134,7 +7134,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Can Gio" },
+      "properties": { "name": "Can Gio", "District": "Can Gio" },
 
       "geometries": [
         {
@@ -8727,7 +8727,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Cu Chi" },
+      "properties": { "name": "Cu Chi", "District": "Cu Chi" },
 
       "geometries": [
         {
@@ -9425,7 +9425,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Hoc Mon" },
+      "properties": { "name": "Hoc Mon", "District": "Hoc Mon" },
 
       "geometries": [
         {
@@ -9699,7 +9699,7 @@
     },
     {
       "type": "GeometryCollection",
-      "properties": { "name": "Nha Be" },
+      "properties": { "name": "Nha Be", "District": "Nha Be" },
 
       "geometries": [
         {
