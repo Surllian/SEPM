@@ -1,4 +1,5 @@
 import altair as alt
+from vega_datasets import data
 import streamlit as st
 import pandas as pd
 from streamlit_echarts import st_echarts
@@ -91,12 +92,22 @@ Q12 = 'https://raw.githubusercontent.com/Surllian/SEPM/main/Dataset_500/Dis12_fo
 sepm = pd.read_csv(sepmall)
 
 # Bar_chart
-barchart = alt.Chart(sepm).mark_bar().encode(
+bars = alt.Chart(sepm).mark_bar().encode(
     x=alt.X('count(Cuisine):O',title = "Popularity"),
     y=alt.Y('Cuisine:N'),
     color='Cuisine:N',
-    tooltip = ['count(Cuisine)']
-).properties(height=800, width=800, title = 'Bar chart').interactive()
+    tooltip=['count(Cuisine)']
+)
+
+text = bars.mark_text(
+    align='left',
+    baseline='middle',
+    dx=3  # Nudges text to right so it doesn't appear on top of the bar
+).encode(
+    text='count(Cuisine):O'
+)
+
+barchart = (bars + text).properties(height=800, width=800, title = 'Bar chart').interactive()
 
 st.altair_chart(barchart)
 
@@ -201,17 +212,17 @@ if district_to_view == "Thu Duc":
     ThuDuc = get_data(ThuDuc)
     st.write(ThuDuc)
 
-st.subheader('Average price and popularity by cuisine')
-st.write('The chart illustrates the popularity  and average price of all types of cuisine whom restaurant topic used. '
+st.subheader('Rating among the districts categorized by cuisine')
+st.write('The chart illustrates the rating among the districts of all types of cuisine whom restaurant topic used. '
          'This can help anyone who are going to set themselves up in food business can choose the appropriate price for their restaurant theme. ')
 
 # Plot chart
 scatter = alt.Chart(sepm).mark_point(filled=True).encode(
         alt.X('Rating'),
-        alt.Y('District'),
-        alt.Size('Cuisine', scale=alt.Scale(range=[200, 500])),
+        alt.Y('Cuisine'),
+        alt.Size('AveragePrice', scale=alt.Scale(range=[200, 500])),
         alt.OpacityValue(0.6),
-        alt.Color('Cuisine'),
+        alt.Color('District'),
         tooltip = ['Name', 'Type']
     ).properties(height=850, width=850, title = 'Plot chart').interactive()
 st.altair_chart(scatter)
