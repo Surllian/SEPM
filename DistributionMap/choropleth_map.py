@@ -5,11 +5,10 @@ import numpy as np # library for multi-dimensional arrays, high-level mathematic
 import json # library to handle JSON files
 import geojson
 import folium
-import pandas
 
 # from geopy.geocoders import Nominatim 
 # convert an address into latitude and longitude values
-import requests # library to handle requests
+# import requests # library to handle requests
 
 
 # import the data. 
@@ -22,8 +21,8 @@ data = data_all[data_all['IndicatorName']==INDICATOR]
 data.head()
 
 # grab the districts and res num column
-map_data = data_all[['District', 'RestaurantNumber']]
-map_data.head()
+# map_data = data_all[['District', 'RestaurantNumber']]
+# map_data.head()
 
 # import geojson data.
 # geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap/districts.geojson'
@@ -39,9 +38,9 @@ M = folium.Map(location=[10.8131, 106.6897], zoom_start=10.3)
 folium.Choropleth(
    # geo_data = geojson,
    geo_data = country_shapes,
-   data = map_data,
+   data = data_all,
    columns=['District','RestaurantNumber'],
-   key_on='feature.properties.name',
+   key_on='feature.properties.District',
    # key_on='feature.id',
 
    fill_color='YlOrRd',
