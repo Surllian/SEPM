@@ -3,4 +3,3 @@ numpy
 streamlit
 networkx
 leafmap
-streamlit.components.v1
