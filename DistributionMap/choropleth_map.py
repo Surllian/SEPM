@@ -22,7 +22,7 @@ data.head()
 
 # grab the districts and res num column
 # map_data = data_all[['District', 'RestaurantNumber']]
-# map_data.head()
+# map_data.head()``
 
 # import geojson data.
 # geojson_url = 'https://raw.githubusercontent.com/Surllian/SEPM/Tae/DistributionMap/districts.geojson'
