@@ -3,4 +3,3 @@ numpy==1.20.3
 streamlit==1.9.0
 networkx==2.6.3
 leafmap==0.9.2
-streamlit.components.v1
