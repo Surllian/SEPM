@@ -197,7 +197,7 @@ with st.container():
     st.markdown("<p style='text-align: left; font-size:60px; font-family: Arial;'><b>RMIT - Ho Chi Minh brand</b></p>", unsafe_allow_html=True)
     st.markdown("""---""")
 with st.container():
-    col1,col2,col3,col4 = st.columns([0.85,0.6,1.1,9.75])
+    col1,col2,col3,col4 = st.columns([0.85,0.6,1.1,9])
     col1.markdown("<p style='text-align: left; font-size:30px;'>Vietnamese |</p>", unsafe_allow_html=True)
     col2.markdown("<p style='text-align: left; font-size:30px;'>School |</p>", unsafe_allow_html=True)
     col3.markdown("<p style='text-align: left; font-size:30px;'>Avg: 100.000vnd |</p>", unsafe_allow_html=True)
