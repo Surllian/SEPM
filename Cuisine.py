@@ -112,105 +112,108 @@ barchart = (bars + text).properties(height=800, width=800, title = 'Bar chart').
 st.altair_chart(barchart)
 
 # Table bar_chart
-st.subheader('Data table')
+table = st.checkbox('Check out the data table')
 
-def get_data(filename):
-    data = pd.read_csv(filename)
-    return data
+if table:
+    st.subheader('Data table')
+
+    def get_data(filename):
+        data = pd.read_csv(filename)
+        return data
 
 
-with st.sidebar:
-    st.subheader("Choose a district to view")
-    district_to_view = st.radio("", ("District 1", "District 2", "District 3", "District 4", "District 5", "District 6", "District 7", "District 8", "District 9", "District 10", "District 11", "District 12",
-                                     "Binh Thanh","Binh Chanh", "Binh Tan", "Cu Chi","Hoc Mon", "Nha Be", "Nha Be", "Phu Nhuan", "Tan Binh", "Tan Phu", "Thu Duc"))
+    with st.sidebar:
+        st.subheader("Choose a district to view")
+        district_to_view = st.radio("", ("District 1", "District 2", "District 3", "District 4", "District 5", "District 6", "District 7", "District 8", "District 9", "District 10", "District 11", "District 12",
+                                         "Binh Thanh","Binh Chanh", "Binh Tan", "Cu Chi","Hoc Mon", "Nha Be", "Nha Be", "Phu Nhuan", "Tan Binh", "Tan Phu", "Thu Duc"))
 
-if district_to_view == "District 1":
-    Q1 = get_data(Q1)
-    st.write(Q1)
+    if district_to_view == "District 1":
+        Q1 = get_data(Q1)
+        st.write(Q1)
 
-if district_to_view == "District 2":
-    Q2 = get_data(Q2)
-    st.write(Q2)
+    if district_to_view == "District 2":
+        Q2 = get_data(Q2)
+        st.write(Q2)
 
-if district_to_view == "District 3":
-    Q3 = get_data(Q3)
-    st.write(Q3)
+    if district_to_view == "District 3":
+        Q3 = get_data(Q3)
+        st.write(Q3)
 
-if district_to_view == "District 4":
-    Q4 = get_data(Q4)
-    st.write(Q4)
+    if district_to_view == "District 4":
+        Q4 = get_data(Q4)
+        st.write(Q4)
 
-if district_to_view == "District 5":
-    Q5 = get_data(Q5)
-    st.write(Q5)
+    if district_to_view == "District 5":
+        Q5 = get_data(Q5)
+        st.write(Q5)
 
-if district_to_view == "District 6":
-    Q6 = get_data(Q6)
-    st.write(Q6)
+    if district_to_view == "District 6":
+        Q6 = get_data(Q6)
+        st.write(Q6)
 
-if district_to_view == "District 7":
-    Q7 = get_data(Q7)
-    st.write(Q7)
+    if district_to_view == "District 7":
+        Q7 = get_data(Q7)
+        st.write(Q7)
 
-if district_to_view == "District 8":
-    Q8 = get_data(Q8)
-    st.write(Q8)
+    if district_to_view == "District 8":
+        Q8 = get_data(Q8)
+        st.write(Q8)
 
-if district_to_view == "District 9":
-    Q9 = get_data(Q9)
-    st.write(Q9)
+    if district_to_view == "District 9":
+        Q9 = get_data(Q9)
+        st.write(Q9)
 
-if district_to_view == "District 10":
-    Q10 = get_data(Q10)
-    st.write(Q10)
+    if district_to_view == "District 10":
+        Q10 = get_data(Q10)
+        st.write(Q10)
 
-if district_to_view == "District 11":
-    Q11 = get_data(Q11)
-    st.write(Q11)
+    if district_to_view == "District 11":
+        Q11 = get_data(Q11)
+        st.write(Q11)
 
-if district_to_view == "District 12":
-    Q12 = get_data(Q12)
-    st.write(Q12)
+    if district_to_view == "District 12":
+        Q12 = get_data(Q12)
+        st.write(Q12)
 
-if district_to_view == "Cu Chi":
-    CuChi = get_data(CuChi)
-    st.write(CuChi)
+    if district_to_view == "Cu Chi":
+        CuChi = get_data(CuChi)
+        st.write(CuChi)
 
-if district_to_view == "Binh Chanh":
-    BinhChanh = get_data(BinhChanh)
-    st.write(BinhChanh)
+    if district_to_view == "Binh Chanh":
+        BinhChanh = get_data(BinhChanh)
+        st.write(BinhChanh)
 
-if district_to_view == "Binh Tan":
-    BinhTan = get_data(BinhTan)
-    st.write(BinhTan)
+    if district_to_view == "Binh Tan":
+        BinhTan = get_data(BinhTan)
+        st.write(BinhTan)
 
-if district_to_view == "Binh Thanh":
-    BinhThanh = get_data(BinhThanh)
-    st.write(BinhThanh)
+    if district_to_view == "Binh Thanh":
+        BinhThanh = get_data(BinhThanh)
+        st.write(BinhThanh)
 
-if district_to_view == "Hoc Mon":
-    HocMon = get_data(HocMon)
-    st.write(HocMon)
+    if district_to_view == "Hoc Mon":
+        HocMon = get_data(HocMon)
+        st.write(HocMon)
 
-if district_to_view == "Nha Be":
-    NhaBe = get_data(NhaBe)
-    st.write(NhaBe)
+    if district_to_view == "Nha Be":
+        NhaBe = get_data(NhaBe)
+        st.write(NhaBe)
 
-if district_to_view == "Phu Nhuan":
-    PhuNhuan = get_data(PhuNhuan)
-    st.write(PhuNhuan)
+    if district_to_view == "Phu Nhuan":
+        PhuNhuan = get_data(PhuNhuan)
+        st.write(PhuNhuan)
 
-if district_to_view == "Tan Binh":
-    TanBinh = get_data(TanBinh)
-    st.write(TanBinh)
+    if district_to_view == "Tan Binh":
+        TanBinh = get_data(TanBinh)
+        st.write(TanBinh)
 
-if district_to_view == "Tan Phu":
-    TanPhu = get_data(TanPhu)
-    st.write(TanPhu)
+    if district_to_view == "Tan Phu":
+        TanPhu = get_data(TanPhu)
+        st.write(TanPhu)
 
-if district_to_view == "Thu Duc":
-    ThuDuc = get_data(ThuDuc)
-    st.write(ThuDuc)
+    if district_to_view == "Thu Duc":
+        ThuDuc = get_data(ThuDuc)
+        st.write(ThuDuc)
 
 st.subheader('Rating among the districts categorized by cuisine')
 st.write('The chart illustrates the rating among the districts of all types of cuisine whom restaurant topic used. '
@@ -314,5 +317,3 @@ st.markdown("""
   <div style="padding: 100px 80px 50px">Copyright ©2022 TEAM DAVIKO</div>
 </nav>
 """, unsafe_allow_html=True)
-
-
