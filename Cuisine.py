@@ -216,17 +216,22 @@ if table:
         st.write(ThuDuc)
 
 st.subheader('Rating among the districts categorized by cuisine')
-st.write('The chart illustrates the rating among the districts of all types of cuisine whom restaurant topic used. '
+st.write('The chart illustrates the rating of every restaurant grouped by the Cuisine among the districts. '
          'This can help anyone who are going to set themselves up in food business can choose the appropriate price for their restaurant theme. ')
 
 # Plot chart
 scatter = alt.Chart(sepm).mark_point(filled=True).encode(
-        alt.X('Rating'),
+        alt.X('Rating',
+            scale=alt.Scale(
+                domain=(3.0, 4.5),
+                clamp=True
+            )
+        ),
         alt.Y('Cuisine'),
-        alt.Size('AveragePrice', scale=alt.Scale(range=[200, 500])),
+        alt.Size('AveragePrice', scale=alt.Scale(range=[10, 510])),
         alt.OpacityValue(0.6),
         alt.Color('District'),
-        tooltip = ['Name', 'Type']
+        tooltip = ['Name', 'Type', 'AveragePrice', 'District']
     ).properties(height=850, width=850, title = 'Plot chart').interactive()
 st.altair_chart(scatter)
 
