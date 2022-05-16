@@ -116,3 +116,7 @@ img {
   color: black;
   text-align: left;
 }
+.map {
+  margin: 5.5em 14.3em 10em 14.3em;
+  height: 100%;
+}
