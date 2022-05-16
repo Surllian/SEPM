@@ -56,10 +56,10 @@ st.markdown("""
 # Body
 st.title('Cuisine')
 st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City.'
-         ' The data is classified as follows: Vietnam, Japanese, Western, Korean, Italian and so on.')
+         ' The data is classified as follows: Japanese, Western, Korean, Italian and so on. However, to make clear the data, Vietnamese cuisine will not be displayed on the bar chart and plot chart.')
 st.subheader('Cuisine popularity')
 st.write('The chart illustrates the popularity of all types of cuisine whom restaurant topic used. '
-         'As the result, the user can choose what type of new cuisine they want to try or for who having intention to open a restaurant will decide what cuisine they want to used in their restaurnt in order to reduce to compete. ')
+         'As the result, the user can choose what type of new cuisine they want to try or those planning to start a restaurant can determine what cuisine they want to utilize in their restaurant to limit competition. ')
 
 sepmall ='https://raw.githubusercontent.com/Surllian/SEPM/main/All_Dis_csv/All_dis_csv.csv'
 
@@ -216,10 +216,11 @@ if table:
         st.write(ThuDuc)
 
 st.subheader('Rating among the districts categorized by cuisine')
-st.write('The chart illustrates the rating of every restaurant grouped by the Cuisine among the districts. '
-         'This can help anyone who are going to set themselves up in food business can choose the appropriate price for their restaurant theme. ')
+st.write('The chart depicts the overall rating of each restaurant in each district, organized by cuisine.'
+        )
 
 # Plot chart
+
 scatter = alt.Chart(sepm).mark_point(filled=True).encode(
         alt.X('Rating',
             scale=alt.Scale(
