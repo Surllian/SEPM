@@ -2,9 +2,11 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "GeometryCollection",
       "properties": { "name": "1", "District": "1" },
       "geometries": [
         {
+          "type": "MultiPolygon",
           "coordinates": [
             [
               [
