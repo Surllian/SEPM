@@ -5,7 +5,6 @@ import recommend
 
 
 
-st.set_page_config(layout="wide")
 
 components.html(
     """
@@ -204,7 +203,6 @@ with st.container():
     st.markdown("""---""")
 
 
-
 with st.container():
     col1,col2,col3,col4,col5 = st.columns([1,2,2,1,8])
     col1.subheader(recommend.final_type)
@@ -227,7 +225,7 @@ location_html_2 = ', '
 map_illustration = ''
 
 
-def getGeoCoord(geo_address):
+def getGeoCoord(geo_address, API_KEY):
     params = {
         'key': API_KEY,
         'address': geo_address.replace(' ', '+')
@@ -242,12 +240,12 @@ def getGeoCoord(geo_address):
         longtitude = str(location['lng'])
         latitude = str(location['lat'])
         map_illustration = location_html + latitude + location_html_2 + longtitude + location_html_3
-        components.html(map_illustration,height=2000)
+        components.html(map_illustration, height=2000)
     else:
         st.title("Error")
 
 
-getGeoCoord(geo_address)
+getGeoCoord(geo_address, API_KEY)
 
 
 
