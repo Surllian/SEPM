@@ -40,7 +40,7 @@ st.markdown("""
           <a class="nav-link" href="http://localhost:8502" target="_blank" style="color: #000000;">Location</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://twitter.com/thedataprof" target="_blank" style="color: #000000;">Reccomendation</a>
+          <a class="nav-link" href="https://mafood-recommend.herokuapp.com/" target="_blank" style="color: #000000;">Reccomendation</a>
         </li>
       </ul>
     </div>
