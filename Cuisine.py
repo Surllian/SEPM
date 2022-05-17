@@ -57,6 +57,78 @@ st.markdown("""
 st.title('Cuisine')
 st.write('This page allows you to browse the statistical data visualization by cuisine of restaurants in Ho Chi Minh City.'
          ' The data is classified as follows: Japanese, Western, Korean, Italian and so on. However, to make clear the data, Vietnamese cuisine will not be displayed on the bar chart and plot chart.')
+
+st.subheader("Tag cloud for cuisine")
+data = [
+    {"name": name, "value": value}
+    for name, value in [
+        ("South Vietnamese", "7767"),
+        ("North Vietnamese", "3228"),
+        ("Central Vietnamese", "4516"),
+        ("Highland Vietnamese", "1177"),
+        ("Korean", "1244"),
+        ("Japanese", "1182"),
+        ("Chinses", "1324"),
+        ("Thai", "665"),
+        ("Taiwanese", "491"),
+        ("Italian", "556"),
+        ("American", "452"),
+        ("International", "931"),
+        ("Eastern Europe", "239"),
+        ("Australian", "72"),
+        ("Middle East", "70"),
+        ("Nordic", "63"),
+        ("African", "35"),
+        ("Singaporean", "336"),
+        ("Malaysian", "90"),
+        ("Cambodian", "70"),
+        ("Philippines", "24"),
+        ("Indonesian", "34"),
+        ("Indian", "105"),
+        ("Iranian", "18"),
+        ("French", "324"),
+        ("Spanish", "41"),
+        ("German", "63"),
+
+    ]
+]
+wordcloud_option = {"series": [{"type": "wordCloud", "data": data}]}
+st_echarts(wordcloud_option)
+
+st.subheader("Category Distribution for the all cuisine")
+options = {
+    "title": {"text": "Cuisine Distribution Statistic in Total", "subtext": "Data from Foody", "left": "center"},
+    "tooltip": {"trigger": "item"},
+    "legend": {"orient": "vertical", "left": "left",},
+    "series": [
+        {
+            "name": "pie chart",
+            "type": "pie",
+            "radius": "50%",
+            "data": [
+
+                {"value": 98211, "name": "Vietnamese"},
+                {"value": 5865, "name": "Asian"},
+                {"value": 1652, "name": "Western"},
+                {"value": 376, "name": "Europe / Australian / Middle East / African"},
+                {"value": 931, "name": "International"},
+                {"value": 452, "name": "American"},
+
+            ],
+            "emphasis": {
+                "itemStyle": {
+                    "shadowBlur": 10,
+                    "shadowOffsetX": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0.5)",
+                }
+            },
+        }
+    ],
+}
+st_echarts(
+    options=options, height="600px",
+)
+
 st.subheader('Cuisine popularity')
 st.write('The chart illustrates the popularity of all types of cuisine whom restaurant topic used. '
          'As the result, the user can choose what type of new cuisine they want to try or those planning to start a restaurant can determine what cuisine they want to utilize in their restaurant to limit competition. ')
@@ -235,77 +307,6 @@ scatter = alt.Chart(sepm).mark_point(filled=True).encode(
         tooltip = ['Name', 'Type', 'AveragePrice', 'District']
     ).properties(height=850, width=850, title = 'Plot chart').interactive()
 st.altair_chart(scatter)
-
-st.subheader("Tag cloud for cuisine")
-data = [
-    {"name": name, "value": value}
-    for name, value in [
-        ("South Vietnamese", "7767"),
-        ("North Vietnamese", "3228"),
-        ("Central Vietnamese", "4516"),
-        ("Highland Vietnamese", "1177"),
-        ("Korean", "1244"),
-        ("Japanese", "1182"),
-        ("Chinses", "1324"),
-        ("Thai", "665"),
-        ("Taiwanese", "491"),
-        ("Italian", "556"),
-        ("American", "452"),
-        ("International", "931"),
-        ("Eastern Europe", "239"),
-        ("Australian", "72"),
-        ("Middle East", "70"),
-        ("Nordic", "63"),
-        ("African", "35"),
-        ("Singaporean", "336"),
-        ("Malaysian", "90"),
-        ("Cambodian", "70"),
-        ("Philippines", "24"),
-        ("Indonesian", "34"),
-        ("Indian", "105"),
-        ("Iranian", "18"),
-        ("French", "324"),
-        ("Spanish", "41"),
-        ("German", "63"),
-
-    ]
-]
-wordcloud_option = {"series": [{"type": "wordCloud", "data": data}]}
-st_echarts(wordcloud_option)
-
-st.subheader("Category Distribution for the all cuisine")
-options = {
-    "title": {"text": "Cuisine Distribution Statistic in Total", "subtext": "Data from Foody", "left": "center"},
-    "tooltip": {"trigger": "item"},
-    "legend": {"orient": "vertical", "left": "left",},
-    "series": [
-        {
-            "name": "pie chart",
-            "type": "pie",
-            "radius": "50%",
-            "data": [
-
-                {"value": 98211, "name": "Vietnamese"},
-                {"value": 5865, "name": "Asian"},
-                {"value": 1652, "name": "Western"},
-                {"value": 376, "name": "Europe / Australian / Middle East / African"},
-                {"value": 931, "name": "International"},
-                {"value": 452, "name": "American"},
-
-            ],
-            "emphasis": {
-                "itemStyle": {
-                    "shadowBlur": 10,
-                    "shadowOffsetX": 0,
-                    "shadowColor": "rgba(0, 0, 0, 0.5)",
-                }
-            },
-        }
-    ],
-}
-st_echarts(
-    options=options, height="600px",
-)
 
 # Footer
 st.markdown("""
