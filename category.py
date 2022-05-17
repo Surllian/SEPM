@@ -40,7 +40,7 @@ st.markdown("""
     <div class="collapse navbar-collapse " id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link disabled" href="#" style="color: #000000;"> Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link disabled" href="https://mafood-homepage.herokuapp.com/" style="color: #000000;"> Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://youtube.com/dataprofessor" target="_blank" style="color: #000000;">Cuisine</a>
@@ -52,7 +52,7 @@ st.markdown("""
           <a class="nav-link" href="http://localhost:8502" target="_blank" style="color: #000000;">Location</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://mafood-homepage.herokuapp.com/" target="_blank" style="color: #000000;">Reccomendation</a>
+          <a class="nav-link" href="https://mafood-recommend.herokuapp.com/" target="_blank" style="color: #000000;">Reccomendation</a>
         </li>
       </ul>
     </div>
