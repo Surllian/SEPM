@@ -30,7 +30,7 @@ st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootst
 
 #Header
 st.markdown("""
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #FFFFFF; border-bottom-style: solid;">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #FFFFFF; border-bottom-style: solid;">
     <img src="https://raw.githubusercontent.com/Surllian/SEPM/Tien/logo.png"
               class="img" style="width: 50px; height:50px" alt="MAFOOD">
     <a class="navbar-brand" href="https://mafood-homepage.herokuapp.com/" target="_blank" style="color: #000000;">MAFOOD</a>
