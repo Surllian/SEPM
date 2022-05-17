@@ -31,7 +31,7 @@ st.markdown("""
           <a class="nav-link disabled" href="https://mafood-homepage.herokuapp.com/" style="color: #000000;"> Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://youtube.com/dataprofessor" target="_blank" style="color: #000000;">Cuisine</a>
+          <a class="nav-link" href="https://mafood-cuisine.herokuapp.com/" target="_blank" style="color: #000000;">Cuisine</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://twitter.com/thedataprof" target="_blank" style="color: #000000;">Category</a>
