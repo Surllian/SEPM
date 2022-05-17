@@ -33,7 +33,7 @@ st.markdown("""
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #FFFFFF; border-bottom-style: solid;">
     <img src="https://raw.githubusercontent.com/Surllian/SEPM/Tien/logo.png"
               class="img" style="width: 50px; height:50px" alt="MAFOOD">
-    <a class="navbar-brand" href="https://mafood-homepage.herokuapp.com/?fbclid=IwAR2aqYXbTM4DCRGdusArgxXT1_ALpRO4J7fTuhPmeH3pcxzWxTr6bRHQnto" target="_blank" style="color: #000000;">MAFOOD</a>
+    <a class="navbar-brand" href="https://mafood-homepage.herokuapp.com/" target="_blank" style="color: #000000;">MAFOOD</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -759,7 +759,7 @@ st.markdown("""
   <div class="collapse navbar-collapse " id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="https://mafood-aboutus.herokuapp.com/?fbclid=IwAR2GiDTptGP3Z7I-DfztGM3Vw2Xl5oVEuhNOvYVyDhceAObCy6IsjhjBus8" target="_blank" style="color: #000000;">About Us</a>
+        <a class="nav-link" href="https://mafood-aboutus.herokuapp.com/" target="_blank" style="color: #000000;">About Us</a>
       </li>
     </ul>
   </div>
