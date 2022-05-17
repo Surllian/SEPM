@@ -23,9 +23,8 @@ st.markdown(hide_menu, unsafe_allow_html=True)
 st.markdown('<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">', unsafe_allow_html=True)
 
 #Header
-
 st.markdown("""
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #FFFFFF; border-bottom-style: solid;">
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #FFFFFF; border-bottom-style: solid;">
     <img src="https://raw.githubusercontent.com/Surllian/SEPM/Tien/logo.png"
               class="img" style="width: 50px; height:50px" alt="MAFOOD">
     <a class="navbar-brand" href="https://mafood-homepage.herokuapp.com/" target="_blank" style="color: #000000;">MAFOOD</a>
@@ -35,7 +34,7 @@ st.markdown("""
     <div class="collapse navbar-collapse " id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item active">
-          <a class="nav-link disabled" href="#" style="color: #000000;"> Home <span class="sr-only">(current)</span></a>
+          <a class="nav-link disabled" href="https://mafood-homepage.herokuapp.com/" style="color: #000000;"> Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://youtube.com/dataprofessor" target="_blank" style="color: #000000;">Cuisine</a>
